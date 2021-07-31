@@ -3,6 +3,8 @@
 - I am a data scientist by profession and pharmacist by training
 - Feel free to explore the work I have done so far
 
+___
+
 
 ### Computer Vision 
 | Title | Article | Repo |
