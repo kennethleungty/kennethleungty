@@ -9,8 +9,8 @@ ___
 ### Computer Vision 
 | Title | Article | Repo |
 | --- | --- | --- |
-| Quick start notebooks that demonstrate workflow of developing a recommender by using an algorithm in local environment| Yes | [01_prepare_data](01_prepare_data) |
-| Quick start notebooks that demonstrate workflow of developing a recommender by using an algorithm in local environment | Yes | [01_prepare_data](01_prepare_data) |
+| Still in the works | [01_prepare_data](01_prepdare_data) | [01_prepare_data](01_prepare_data) |
+
 
 <!--
 **kennethleungty/kennethleungty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
