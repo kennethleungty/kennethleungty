@@ -4,7 +4,7 @@
 - Feel free to explore the work I have done so far
 
 
-#### Computer Vision 
+### Computer Vision 
 | Title | Article | Repo |
 | --- | --- | --- |
 | Quick start notebooks that demonstrate workflow of developing a recommender by using an algorithm in local environment| Yes | [01_prepare_data](01_prepare_data) |
