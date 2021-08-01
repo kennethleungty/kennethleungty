@@ -22,7 +22,9 @@ ___
 ## Computer Vision
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Classifying Images of Alcoholic Beverages with fast.ai v2 | [Link](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543) | [Link](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
+| Russian Car Plate Detection with OpenCV and TesseractOCR | [Link](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) | [Link](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
+| Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [Link](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) | [Link](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
 
 ___
 ## Data Extraction and Web Scraping
