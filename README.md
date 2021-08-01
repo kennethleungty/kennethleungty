@@ -9,7 +9,7 @@ ___
 1. [Computer Vision](#computer-vision)
 2. [Data Extraction and Web Scraping](#web-scraping)
 3. [Data Science Certification Guides](#certifications)
-4. [Exploratory Data Analysis](#eda)
+4. [Drugs and Data](#drugs-and-data)
 5. [Machine Learning](#machine-learning)
 6. [MLOps](#mlops)
 7. [Natural Language Processing](#nlp)
@@ -41,17 +41,17 @@ ___
 | 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [Link](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) | - |
 
 ___
-## Exploratory Data Analysis
+## Drugs and Data
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [Link](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [Link](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
-| Exploring Condominium Rental with Web Scraping and EDA | [Link](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 
 
 ___
 ## Machine Learning
 | Title | Article | Repo |
 | --- | --- | --- |
+| Exploring Condominium Rental with Web Scraping and EDA | [Link](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condo Rental Prices | [Link](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | The Dying ReLU Problem, Clearly Explained | [Link](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24) | - |
 
