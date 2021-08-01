@@ -59,34 +59,37 @@ ___
 ## MLOps
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Key Learning Points from MLOps Specialization — Course 1 | [Link](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) | [Link](https://github.com/kennethleungty/MLOps-Specialization-Notes) |
 
 
 ___
 ## Natural Language Processing
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| COVID-19 Vaccine — What’s the Public Sentiment? | [Link](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [Link](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
 
 ___
 ## Python Tools
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Common Python codes for Data Wrangling | - | [Link](https://github.com/kennethleungty/Common-Python-Codes) |
+| Enhance your Python code’s readability with pycodestyle | [Link](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb) | - |
+| Free Resources for Generating Realistic Fake Data | [Link](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8) | - |
 
 ___
 ## Sports Analytics
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Analyzing English Premier League VAR Football Decisions | [Link](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [Link](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 
 
 ___
 ## Visualization
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Uniform Singapore Energy Price and Demand Forecast Dashboard (Plotly Dash) | - | [Link](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
+| Visualizing Fortune 500 Companies in a Bar Chart Race | [Link](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [Link](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
 
 
 ___
