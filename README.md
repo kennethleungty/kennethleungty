@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 - I am a data scientist by profession and pharmacist by training
 - I welcome you to join me on a data learning journey! Follow me on Medium (https://kennethleungty.medium.com) or reach out on LinkedIn (https://linkedin.com/in/kennethleungty)
