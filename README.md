@@ -8,15 +8,15 @@ ___
 ## Categories
 1. [Computer Vision](#computer-vision)
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-3. [Data Science Certification Guides](#certifications)
-4. [Data Science Tools](#python-tools)
+3. [Data Science Certification Guides](#data-science-certification-guides)
+4. [Data Science Tools](#data-science-tools)
 5. [Drugs and Data](#drugs-and-data)
 6. [Machine Learning](#machine-learning)
-7. [Natural Language Processing](#nlp)
+7. [Natural Language Processing](#natural-language-processing)
 8. [Sports Analytics](#sports-analytics)
 9. [Visualization](#visualization)
-10. [Web Development](#web-dev)
-11. [Writing Tips](#writing)
+10. [Web Development](#web-development)
+11. [Writing Tips](#writing-tips)
 
 
 ___
@@ -104,7 +104,7 @@ ___
 ## Writing Tips
 | Title | Article | Repo |
 | --- | --- | --- |
-| Post COVID-19 Vaccination Wait-Time Tracker | [Link](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
+| Create a Clickable Table of Contents for Your Medium Posts | [Link](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
 
 
 <!--
