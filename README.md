@@ -5,8 +5,16 @@
 
 ___
 ## Categories
-1. [Computer Vision](#computer-vision)
-2. [Data Visualization](#visualization)
+1. [Machine Learning](#machine-learning)
+2. [Computer Vision](#computer-vision)
+4. [Visualization](#visualization)
+5. [Natural Language Processing](#nlp)
+6. [Sports Analytics](#sports-analytics)
+7. [Drugs x Data](#drugs-data)
+8. [Python](#python)
+9. [MLOps](#mlops)
+10.[Data Extraction and Web Scraping](#web-scraping)
+11.[Certifications](#certifications)
 
 ___
 ## Template
