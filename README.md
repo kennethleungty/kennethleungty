@@ -7,7 +7,7 @@
 ___
 ## Categories
 1. [Computer Vision](#computer-vision)
-2. [Data Extraction and Web Scraping](#web-scraping)
+2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
 3. [Data Science Certification Guides](#certifications)
 4. [Data Science Tools](#python-tools)
 5. [Drugs and Data](#drugs-and-data)
