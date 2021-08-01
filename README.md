@@ -30,7 +30,8 @@ ___
 ## Data Extraction and Web Scraping
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+| Using OneMap API to extract  Singapore location postal codes, latitude-longitude coordinates and travel distance and travel time | - | [Link](https://github.com/kennethleungty/OneMap-API) |
+| A Detailed Web Scraping Walkthrough Using Python and Selenium | [Link](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d) | [Link](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
 
 ___
 ## Data Science Certification Guides
