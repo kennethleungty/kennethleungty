@@ -59,7 +59,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [Link](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [Link](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
-
+| Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [Link](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
 
 ___
 ## Machine Learning
