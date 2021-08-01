@@ -97,7 +97,7 @@ ___
 ## Web Development
 | Title | Article | Repo |
 | --- | --- | --- |
-| Post COVID-19 Vaccination Wait-Time Tracker | - | [Link](https://github.com/kennethleungty/Post-Vaccine-Timer) |
+| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | - | [Link](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 
 
 ___
