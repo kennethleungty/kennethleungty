@@ -4,8 +4,7 @@
 - I welcome you to join me on a data learning journey! Follow me on Medium (https://kennethleungty.medium.com) or reach out on LinkedIn (https://linkedin.com/in/kennethleungty)
 - Feel free to explore the work I have done so far down below (arranged in alphabetical order)
 
-___
-## Categories
+## Table of Contents
 1. [Computer Vision](#computer-vision)
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
 3. [Data Science Certification Guides](#data-science-certification-guides)
