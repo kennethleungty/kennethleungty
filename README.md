@@ -4,16 +4,17 @@
 - Feel free to explore the work I have done so far
 
 ___
-## Contents
+## Categories
 1. [Computer Vision](#computer-vision)
-
+2. [Data Visualization](#visualization)
 
 ___
-
-### Computer Vision 
+## Template
 | Title | Article | Repo |
 | --- | --- | --- |
-| Still in the works | [01_prepare_data](01_prepdare_data) | [01_prepare_data](01_prepare_data) |
+| Still in the works | [Link](01_prepdare_data) | [Link](https://www.github.com) |
+
+
 
 
 <!--
