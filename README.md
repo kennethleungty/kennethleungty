@@ -1,8 +1,9 @@
-# Hello there 👋
+# Hello there 👋👋
 
-- I am a data scientist by profession and pharmacist by training
+- Thanks for popping by!
+- I'm a data scientist by profession and pharmacist by training
 - I welcome you to join me on a data learning journey! Follow me on Medium (https://kennethleungty.medium.com) or reach out on LinkedIn (https://linkedin.com/in/kennethleungty)
-- Feel free to explore the work I have done so far down below (arranged in alphabetical order)
+- Feel free to explore the work I have done so far in the catalog below (arranged in alphabetical order)
 
 ## Table of Contents
 1. [Computer Vision](#computer-vision)
@@ -108,10 +109,6 @@ ___
 
 <!--
 | Placeholder | [Link](article_link) | [Link](github_link) |
-
-**kennethleungty/kennethleungty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
