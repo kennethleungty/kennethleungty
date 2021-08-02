@@ -118,6 +118,9 @@ ___
 | Create a Clickable Table of Contents for Your Medium Posts | [Link](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
 
 
+___
+
+
 <!--
 | Placeholder | [Link](article_link) | [Link](github_link) |
 
