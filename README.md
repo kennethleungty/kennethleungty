@@ -16,7 +16,8 @@
 8. [Sports Analytics](#sports-analytics)
 9. [Visualization](#visualization)
 10. [Web Development](#web-development)
-11. [Writing Tips](#writing-tips)
+11. [Writing for DataCamp](#writing-for-datacamp)
+12. [Writing Tips](#writing-tips)
 
 
 ___
