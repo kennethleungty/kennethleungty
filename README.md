@@ -1,6 +1,6 @@
 # Hello there 👋👋
 
-- Thanks for popping by!
+- Great to have you here!
 - I'm a data scientist by profession and pharmacist by training
 - I welcome you to join me on a data learning journey! Follow me on Medium (https://kennethleungty.medium.com) or reach out on LinkedIn (https://linkedin.com/in/kennethleungty)
 - Feel free to explore the work I have done so far in the catalog below (arranged in alphabetical order)
@@ -98,6 +98,16 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | - | [Link](https://github.com/kennethleungty/Post-Vaccine-Timer) |
+
+
+___
+## Writing for DataCamp
+| Title | Article | Repo |
+| --- | --- | --- |
+| What Mature Data Infrastructure Looks Like | [Link](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
+| Democratizing Data in Government Agencies | [Link](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
+| A Survey Into Data Governance Tools | [Link](https://www.datacamp.com/community/blog/a-survey-into-data-governance-tools) | - |
+| Scaling Data Science With Data Governance | [Link](https://www.datacamp.com/community/blog/scaling-data-science-with-data-governance) | - |
 
 
 ___
