@@ -1,4 +1,4 @@
-# Hello there 👋👋
+# 👋 Hello there 👋
 
 - Great to have you here!
 - I'm a data scientist by profession and pharmacist by training
