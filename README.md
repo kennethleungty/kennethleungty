@@ -68,7 +68,7 @@ ___
 ## Machine Learning
 | Title | Article | Repo |
 | --- | --- | --- |
-| Exploring Condominium Rental with Web Scraping and EDA | [Link](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
+| Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis (EDA) | [Link](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [Link](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | The Dying ReLU Problem, Clearly Explained | [Link](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24) | - |
 | Key Learning Points from MLOps Specialization — Course 1 | [Link](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) | [Link](https://github.com/kennethleungty/MLOps-Specialization-Notes) |
