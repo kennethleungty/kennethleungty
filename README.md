@@ -2,7 +2,7 @@
 
 - Great to have you here, and thanks for popping by!
 - My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
-- I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (www.kennethleungty.medium.com) or reach out to me on LinkedIn (linkedin.com/in/kennethleungty)
+- I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty)
 - The following catalog is a portfolio of the data science projects and topics I have worked on, so do go ahead and have a look!
 
 ## Portfolio Contents
