@@ -5,7 +5,7 @@
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty)
 - The following catalog is a portfolio of the data science projects and topics I have worked on, so do go ahead and have a look!
 
-## Table of Contents
+## Portfolio Contents
 1. [Computer Vision](#computer-vision)
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
 3. [Data Science Certification Guides](#data-science-certification-guides)
