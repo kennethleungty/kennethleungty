@@ -1,9 +1,9 @@
 # 👋 Hello there 👋
 
-- Great to have you here!
-- I'm a data scientist by profession and pharmacist by training
-- I welcome you to join me on a data learning journey! Follow me on Medium (https://kennethleungty.medium.com) or reach out on LinkedIn (https://linkedin.com/in/kennethleungty)
-- Feel free to explore the work I have done so far in the catalog below (arranged in alphabetical order)
+- Great to have you here, and thanks for popping by!
+- My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
+- I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty)
+- The following catalog is a portfolio of the data science projects and topics I have worked on, so do go ahead and have a look!
 
 ## Table of Contents
 1. [Computer Vision](#computer-vision)
@@ -30,7 +30,7 @@ ___
 | Top Python libraries for Image Augmentation in Computer Vision | [Link](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) | [Link](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
 
 ___
-## Data Extraction and Web Scraping
+## Data Extraction and Web Scraping :toolbox:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [Link](https://github.com/kennethleungty/OneMap-API) |
@@ -38,7 +38,7 @@ ___
 
 
 ___
-## Data Science Certification Guides
+## Data Science Certification Guides :man_student:
 | Title | Article | Repo |
 | --- | --- | --- |
 | 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [Link](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) | [Link](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
@@ -46,7 +46,7 @@ ___
 
 
 ___
-## Data Science Tools
+## Data Science Tools :hammer_and_wrench:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Common Python codes for Data Wrangling | - | [Link](https://github.com/kennethleungty/Common-Python-Codes) |
@@ -56,7 +56,7 @@ ___
 
 
 ___
-## Drugs and Data
+## Drugs and Data :pill:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [Link](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [Link](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
@@ -65,7 +65,7 @@ ___
 
 
 ___
-## Machine Learning
+## Machine Learning :slot_machine:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis (EDA) | [Link](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [Link](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
@@ -75,21 +75,21 @@ ___
 
 
 ___
-## Natural Language Processing
+## Natural Language Processing :bookmark_tabs:
 | Title | Article | Repo |
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [Link](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [Link](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
 
 ___
-## Sports Analytics
+## Sports Analytics :soccer:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Analyzing English Premier League VAR Football Decisions | [Link](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [Link](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 
 
 ___
-## Visualization
+## Visualization :chart:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [Link](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
@@ -97,14 +97,14 @@ ___
 
 
 ___
-## Web Development
+## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | - | [Link](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 
 
 ___
-## Writing for DataCamp
+## Writing for DataCamp :writing_hand:
 | Title | Article | Repo |
 | --- | --- | --- |
 | What Mature Data Infrastructure Looks Like | [Link](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
@@ -114,7 +114,7 @@ ___
 
 
 ___
-## Writing Tips
+## Writing Tips :scroll:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Create a Clickable Table of Contents for Your Medium Posts | [Link](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
