@@ -34,7 +34,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
-| A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d) | [Link](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
+| A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
 
 
 ___
@@ -78,46 +78,46 @@ ___
 ## Natural Language Processing :bookmark_tabs:
 | Title | Article | Repo |
 | --- | --- | --- |
-| COVID-19 Vaccine — What’s the Public Sentiment? | [Link](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [Link](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
+| COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
 
 ___
 ## Sports Analytics :soccer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Analyzing English Premier League VAR Football Decisions | [Link](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [Link](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
+| Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 
 
 ___
 ## Visualization :chart:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [Link](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
-| Visualizing Fortune 500 Companies in a Bar Chart Race | [Link](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [Link](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
+| Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
+| Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
 
 
 ___
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | - | [Link](https://github.com/kennethleungty/Post-Vaccine-Timer) |
+| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | - | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 
 
 ___
 ## Writing for DataCamp :writing_hand:
 | Title | Article | Repo |
 | --- | --- | --- |
-| What Mature Data Infrastructure Looks Like | [Link](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
-| Democratizing Data in Government Agencies | [Link](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
-| A Survey Into Data Governance Tools | [Link](https://www.datacamp.com/community/blog/a-survey-into-data-governance-tools) | - |
-| Scaling Data Science With Data Governance | [Link](https://www.datacamp.com/community/blog/scaling-data-science-with-data-governance) | - |
+| What Mature Data Infrastructure Looks Like | [:link:](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
+| Democratizing Data in Government Agencies | [:link:](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
+| A Survey Into Data Governance Tools | [:link:](https://www.datacamp.com/community/blog/a-survey-into-data-governance-tools) | - |
+| Scaling Data Science With Data Governance | [:link:](https://www.datacamp.com/community/blog/scaling-data-science-with-data-governance) | - |
 
 
 ___
 ## Writing Tips :scroll:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Create a Clickable Table of Contents for Your Medium Posts | [Link](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
+| Create a Clickable Table of Contents for Your Medium Posts | [:link:](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
 
 
 ___
