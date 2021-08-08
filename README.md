@@ -21,6 +21,7 @@
 
 
 ___
+<a name="computer-vision"></a>
 ## Computer Vision :eye_speech_bubble:
 | Title | Article | Repo |
 | --- | --- | --- |
