@@ -31,6 +31,7 @@ ___
 | Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
 
 ___
+<a name="data-extraction-and-web-scraping"></a>
 ## Data Extraction and Web Scraping :toolbox:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -39,6 +40,7 @@ ___
 
 
 ___
+<a name="data-science-certification-guides"></a>
 ## Data Science Certification Guides :man_student:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -47,6 +49,7 @@ ___
 
 
 ___
+<a name="data-science-tools"></a>
 ## Data Science Tools :hammer_and_wrench:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -57,6 +60,7 @@ ___
 
 
 ___
+<a name="drugs-and-data"></a>
 ## Drugs and Data :pill:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -66,6 +70,7 @@ ___
 
 
 ___
+<a name="machine-learning"></a>
 ## Machine Learning :slot_machine:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -76,6 +81,7 @@ ___
 
 
 ___
+<a name="natural-language-processing"></a>
 ## Natural Language Processing :bookmark_tabs:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -83,6 +89,7 @@ ___
 
 
 ___
+<a name="sports-analytics"></a>
 ## Sports Analytics :soccer:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -90,6 +97,7 @@ ___
 
 
 ___
+<a name="visualization"></a>
 ## Visualization :chart:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -98,6 +106,7 @@ ___
 
 
 ___
+<a name="web-development"></a>
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -105,6 +114,7 @@ ___
 
 
 ___
+<a name="writing-for-datacamp"></a>
 ## Writing for DataCamp :writing_hand:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -115,6 +125,7 @@ ___
 
 
 ___
+<a name="writing-tips"></a>
 ## Writing Tips :scroll:
 | Title | Article | Repo |
 | --- | --- | --- |
@@ -126,12 +137,5 @@ ___
 
 <!--
 | Placeholder | [Link](article_link) | [Link](github_link) |
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a name=" "></a>
 -->
