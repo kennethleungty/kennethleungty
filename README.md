@@ -66,7 +66,7 @@ ___
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
 | Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
-| Network Analysis and Visualization of Drug-Drug Interactions | Coming soon | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
+| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 
 
 ___
