@@ -1,8 +1,20 @@
-# 👋 Hello there 👋
+# Hello there 👋
 
 - Great to have you here, and thanks for popping by!
 - My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty)
+
+<h3> How to reach me </h3>
+<div>
+    <a href="https://www.linkedin.com/in/kennethleungty/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>&nbsp
+    <a href="https://github.com/kennethleungty/">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
+<hr>
+
 - The following catalog is a portfolio of the data science projects and topics I have worked on, so do go ahead and have a look!
 
 ## Portfolio Contents
