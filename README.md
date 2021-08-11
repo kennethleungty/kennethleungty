@@ -9,9 +9,9 @@
     <a href="https://www.linkedin.com/in/kennethleungty/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
     </a>&nbsp
-    <a href="https://github.com/kennethleungty/">
+<!--     <a href="https://github.com/kennethleungty/">
         <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
 </div>
 <hr>
 
@@ -69,6 +69,7 @@ ___
 | Enhance your Python code’s readability with pycodestyle | [:link:](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb) | - |
 | Free Resources for Generating Realistic Fake Data | [:link:](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8) | - |
 | Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) | - |
+| Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) | - |
 
 
 ___
@@ -148,6 +149,6 @@ ___
 
 
 <!--
-| Placeholder | [Link](article_link) | [Link](github_link) |
+| Placeholder | [:link:](article_link) | [:link:](github_link) |
 <a name=" "></a>
 -->
