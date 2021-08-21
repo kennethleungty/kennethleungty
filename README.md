@@ -117,6 +117,7 @@ ___
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
 | Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
+| Deployment of Interactive Pyvis Network Graphs in Streamlit | Coming Soon | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 
 
 ___
