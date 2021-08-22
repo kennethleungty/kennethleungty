@@ -1,8 +1,7 @@
 # Hello there 👋
 
-- Great to have you here, and thanks for popping by!
-- My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
-- I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty)
+- Thanks for popping by! My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
+- I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
 <h3> How to reach me </h3>
 <div>
