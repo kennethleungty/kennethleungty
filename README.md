@@ -40,7 +40,7 @@ ___
 | Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
 | Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
 | Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
-| PyTorch Ignite Walkthrough - Classifying Tiny ImageNet with EfficientNet | Coming Soon | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
+| PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
 
 ___
 <a name="data-extraction-and-web-scraping"></a>
