@@ -91,7 +91,7 @@ ___
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24) | - |
 | Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
-| Key Learning Points from MLOps Specialization — Course 2 | - | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
+| Key Learning Points from MLOps Specialization — Course 2 | Coming Soon | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
 
 
 ___
