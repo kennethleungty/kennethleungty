@@ -70,7 +70,6 @@ ___
 | Free Resources for Generating Realistic Fake Data | [:link:](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8) | - |
 | Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) | - |
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) | - |
-| How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
 
 
 ___
@@ -118,6 +117,7 @@ ___
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
 | Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
+| How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
 | Deploy Interactive Pyvis Network Graphs on Streamlit | - | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 
 
