@@ -14,7 +14,7 @@
 </div>
 <hr>
 
-- The following catalog is a portfolio of the data science projects and topics I have worked on, so do go ahead and have a look!
+- The following catalog is a portfolio of the data science projects and topics I have worked on, so do have a look!
 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
