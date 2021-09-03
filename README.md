@@ -1,6 +1,7 @@
-# Hello there 👋
+## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by! My name is Kenneth, and I'm a data scientist by profession and pharmacist by training
+- Thanks for popping by! I'm a data scientist by profession and pharmacist by training
+- An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
 <h3> How to reach me </h3>
