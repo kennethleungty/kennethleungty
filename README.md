@@ -109,6 +109,8 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
+| Combining the Best of Both Python and R for FIFA Football World Ranking Analysis | Coming Soon | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
+
 
 
 ___
