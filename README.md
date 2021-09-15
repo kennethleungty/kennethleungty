@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by! I'm a data scientist by profession and pharmacist by training
+- Thanks for popping by! I'm a data scientist, freelance technical writer, hobbyist web developer and licensed pharmacist.
 - An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
@@ -109,7 +109,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
-| Combining Python and R for FIFA Football World Ranking Analysis | Coming Soon | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
+| Combining Python and R for FIFA Football World Ranking Analysis | [:link:](https://towardsdatascience.com/combining-python-and-r-for-fifa-football-world-ranking-analysis-d71bb6ceacdb) | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
 
 
 
@@ -149,7 +149,6 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Create a Clickable Table of Contents for Your Medium Posts | [:link:](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
-
 
 ___
 
