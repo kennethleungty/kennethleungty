@@ -93,7 +93,7 @@ ___
 | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24) | - |
 | Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
 | Key Learning Points from MLOps Specialization — Course 2 | Coming Soon | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
-
+| Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172) | - |
 
 ___
 <a name="natural-language-processing"></a>
