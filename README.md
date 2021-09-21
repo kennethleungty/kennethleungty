@@ -129,7 +129,7 @@ ___
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
+| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 
 
 ___
