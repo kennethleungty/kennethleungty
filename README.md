@@ -139,8 +139,9 @@ ___
 | Democratizing Data in Government Agencies | [:link:](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
 | A Survey Into Data Governance Tools | [:link:](https://www.datacamp.com/community/blog/a-survey-into-data-governance-tools) | - |
 | Scaling Data Science With Data Governance | [:link:](https://www.datacamp.com/community/blog/scaling-data-science-with-data-governance) | - |
-| 3 Reasons Why All Teams Should Learn SQL| [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-sql) | - |
-| 3 Reasons Why All Teams Should Learn R| [:link:](https://www.datacamp.com/community/blog/three-reasons-why-all-teams-should-learn-r) | - |
+| 3 Reasons Why All Teams Should Learn SQL | [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-sql) | - |
+| 3 Reasons Why All Teams Should Learn R | [:link:](https://www.datacamp.com/community/blog/three-reasons-why-all-teams-should-learn-r) | - |
+| How Tableau Helps Your Organization Achieve Greater Data Insights | [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-tableau) | - |
 
 ___
 <a name="writing-tips"></a>
