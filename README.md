@@ -142,6 +142,7 @@ ___
 | 3 Reasons Why All Teams Should Learn SQL | [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-sql) | - |
 | 3 Reasons Why All Teams Should Learn R | [:link:](https://www.datacamp.com/community/blog/three-reasons-why-all-teams-should-learn-r) | - |
 | How Tableau Helps Your Organization Achieve Greater Data Insights | [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-tableau) | - |
+| How PowerBI Helps Your Organization Achieve Greater Data Insights | [:link:](https://www.datacamp.com/community/blog/why-your-organization-should-upskill-on-powerbi) | - |
 
 ___
 <a name="writing-tips"></a>
