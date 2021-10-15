@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Kenneth Leung
 
 - Thanks for popping by! I'm a data scientist and a licensed pharmacist with a keen side interest in technical writing and web development
-- An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with the use of technology and data.
+- An avid learner and driven doer with a bias towards action, I enjoy learning and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
 <h3> How to reach me </h3>
