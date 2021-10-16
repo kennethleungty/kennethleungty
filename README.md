@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by! I'm a data scientist and a licensed pharmacist with a keen side interest in technical writing and web development
-- An avid learner and driven doer with a bias towards action, I enjoy learning and solving meaningful problems with the use of technology and data.
+- Thanks for popping by! I'm a data scientist and a double-licensed pharmacist with side interests in technical writing and web development
+- An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
 <h3> How to reach me </h3>
@@ -49,7 +49,6 @@ ___
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
 
-
 ___
 <a name="data-science-certification-guides"></a>
 ## Data Science Certification Guides :man_student:
@@ -57,7 +56,6 @@ ___
 | --- | --- | --- |
 | 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) | [:link:](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
 | 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) | - |
-
 
 ___
 <a name="data-science-tools"></a>
@@ -70,7 +68,6 @@ ___
 | Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) | - |
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) | - |
 
-
 ___
 <a name="drugs-and-data"></a>
 ## Drugs and Data :pill:
@@ -79,7 +76,6 @@ ___
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
 | Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
 | Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
-
 
 ___
 <a name="machine-learning"></a>
@@ -102,7 +98,6 @@ ___
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
-
 ___
 <a name="sports-analytics"></a>
 ## Sports Analytics :soccer:
@@ -110,8 +105,6 @@ ___
 | --- | --- | --- |
 | Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 | Combining Python and R for FIFA Football World Ranking Analysis | [:link:](https://towardsdatascience.com/combining-python-and-r-for-fifa-football-world-ranking-analysis-d71bb6ceacdb) | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
-
-
 
 ___
 <a name="visualization"></a>
@@ -123,14 +116,12 @@ ___
 | How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
 | How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 
-
 ___
 <a name="web-development"></a>
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
-
 
 ___
 <a name="writing-for-datacamp"></a>
