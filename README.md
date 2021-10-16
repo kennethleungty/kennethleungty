@@ -93,6 +93,7 @@ ___
 | Key Learning Points from MLOps Specialization — Course 2 | Coming Soon | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
 | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172) | - |
 | Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
+| Techniques of a Top 5% Finish in the Data-Centric AI Competition | *Coming Soon* | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 
 ___
 <a name="natural-language-processing"></a>
