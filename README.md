@@ -20,7 +20,7 @@
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
 3. [Data Science Certification Guides](#data-science-certification-guides)
 4. [Data Science Tools](#data-science-tools)
-5. [Drugs and Data](#drugs-and-data)
+5. [Healthcare and Data Science](#drugs-and-data)
 6. [Machine Learning](#machine-learning)
 7. [Natural Language Processing](#natural-language-processing)
 8. [Sports Analytics](#sports-analytics)
@@ -70,7 +70,7 @@ ___
 
 ___
 <a name="drugs-and-data"></a>
-## Drugs and Data :pill:
+## Healthcare and Data Science :pill:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
