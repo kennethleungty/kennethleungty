@@ -65,8 +65,8 @@ ___
 | Common Python codes for Data Wrangling | - | [:link:](https://github.com/kennethleungty/Common-Python-Codes) |
 | Enhance your Python code’s readability with pycodestyle | [:link:](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb?sk=d609f9fcac20e3ad0feb086fc1ea160c) | - |
 | Free Resources for Generating Realistic Fake Data | [:link:](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8?sk=475419fafb691b93c236b99afe674439) | - |
-| Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96?sk=fba11166d349efae710a45d67fffede9) | - |
-| Most Starred and Forked GitHub Repos for R in Data Science | [:link:](https://medium.datadriveninvestor.com/most-starred-and-forked-github-repos-for-r-in-data-science-fb87a54d2a6a?sk=3a74fb3e788faa2307b98dfdabf51384) | - |
+| Most Starred and Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96?sk=fba11166d349efae710a45d67fffede9) | - |
+| Most Starred and Forked GitHub Repos for Data Science and R | [:link:](https://medium.datadriveninvestor.com/most-starred-and-forked-github-repos-for-r-in-data-science-fb87a54d2a6a?sk=3a74fb3e788faa2307b98dfdabf51384) | - |
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97?sk=995415e038af91d9a18f9f8e21b04efb) | - |
 | Read and Modify Image Metadata with Python | Coming Soon | [:link:](https://github.com/kennethleungty/Image-Metadata-Exif) |
 
