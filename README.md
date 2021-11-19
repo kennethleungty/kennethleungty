@@ -86,26 +86,26 @@ ___
 | --- | --- | --- |
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
-| The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24) | - |
-| Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
-| Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
-| Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172) | - |
-| Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
-| Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
+| The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
+| Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
+| Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
+| Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
+| Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
+| Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 
 ___
 <a name="natural-language-processing"></a>
 ## Natural Language Processing :bookmark_tabs:
 | Title | Article | Repo |
 | --- | --- | --- |
-| COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
+| COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
 ___
 <a name="sports-analytics"></a>
 ## Sports Analytics :soccer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
+| Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?sk=4d968e99ff9ec1e1322bb69fc0af280c) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 | Combining Python and R for FIFA Football World Ranking Analysis | [:link:](https://towardsdatascience.com/combining-python-and-r-for-fifa-football-world-ranking-analysis-d71bb6ceacdb) | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
 
 ___
@@ -114,9 +114,9 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
-| Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
-| How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
-| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
+| Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63?sk=6ac0cffbe15e0d152bed9b6440c78a24) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
+| How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875?sk=89e9e58c0b0c2e47525051f5f88d4048) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
+| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 
 ___
 <a name="web-development"></a>
@@ -144,7 +144,7 @@ ___
 ## Writing Tips :scroll:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Create a Clickable Table of Contents for Your Medium Posts | [:link:](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142)  | - |
+| Create a Clickable Table of Contents for Your Medium Posts | [:link:](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142?sk=a3993bdd63a3faeb1f324e05007faad9)  | - |
 
 ___
 
