@@ -35,11 +35,11 @@ ___
 ## Computer Vision :eye_speech_bubble:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Classifying Images of Alcoholic Beverages with fast.ai v2 | [:link:](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543) | [:link:](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
-| Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
-| Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
-| Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
-| PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
+| Classifying Images of Alcoholic Beverages with fast.ai v2 | [:link:](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543?sk=d0efa0e6b6d214c52b337a0381a4fd3d) | [:link:](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
+| Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c?sk=263f4351c3c2c5cd9c60a4469b9dab08) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
+| Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510?sk=9b76f0a994edc90c105f71ac2f7d725f) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
+| Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e?sk=a45cb5c2070f8434f876d48597addd33) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
+| PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
 
 ___
 <a name="data-extraction-and-web-scraping"></a>
@@ -47,15 +47,15 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
-| A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
+| A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
 
 ___
 <a name="data-science-certification-guides"></a>
 ## Data Science Certification Guides :man_student:
 | Title | Article | Repo |
 | --- | --- | --- |
-| 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) | [:link:](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
-| 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) | - |
+| 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249?sk=b2865229b15eb0342bb0e2030faf8c4a) | [:link:](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
+| 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de?sk=5bbc1f99cc8543bb71683239237d91c9) | - |
 
 ___
 <a name="data-science-tools"></a>
@@ -63,10 +63,11 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Common Python codes for Data Wrangling | - | [:link:](https://github.com/kennethleungty/Common-Python-Codes) |
-| Enhance your Python code’s readability with pycodestyle | [:link:](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb) | - |
-| Free Resources for Generating Realistic Fake Data | [:link:](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8) | - |
-| Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) | - |
-| Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) | - |
+| Enhance your Python code’s readability with pycodestyle | [:link:](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb?sk=d609f9fcac20e3ad0feb086fc1ea160c) | - |
+| Free Resources for Generating Realistic Fake Data | [:link:](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8?sk=475419fafb691b93c236b99afe674439) | - |
+| Most Starred & Forked GitHub Repos for Data Science and Python | [:link:](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96?sk=fba11166d349efae710a45d67fffede9) | - |
+| Most Starred and Forked GitHub Repos for R in Data Science | [:link:](https://medium.datadriveninvestor.com/most-starred-and-forked-github-repos-for-r-in-data-science-fb87a54d2a6a?sk=3a74fb3e788faa2307b98dfdabf51384) | - |
+| Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97?sk=995415e038af91d9a18f9f8e21b04efb) | - |
 
 ___
 <a name="drugs-and-data"></a>
@@ -75,8 +76,8 @@ ___
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
 | Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
-| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
-| Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1) | - |
+| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
+| Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |
 
 ___
 <a name="machine-learning"></a>
