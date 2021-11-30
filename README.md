@@ -93,7 +93,7 @@ ___
 | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
 | Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
 | Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
-| Credit Card Fraud Detection with AutoXGB | *Coming Soon* | [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
+| Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
 
 ___
 <a name="natural-language-processing"></a>
