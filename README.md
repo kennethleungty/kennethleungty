@@ -107,8 +107,8 @@ ___
 ## Networks and Graphs :globe_with_meridians:
 | Title | Article | Repo |
 | --- | --- | --- |
-| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 | Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
+| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 | A No-Code Approach to Building Knowledge Graphs | [:link:](https://blog.kgbase.com/a-no-code-approach-to-building-knowledge-graphs/) | - |
 
 ___
