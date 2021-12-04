@@ -23,11 +23,12 @@
 5. [Healthcare and Data Science](#drugs-and-data)
 6. [Machine Learning](#machine-learning)
 7. [Natural Language Processing](#natural-language-processing)
-8. [Sports Analytics](#sports-analytics)
-9. [Visualization](#visualization)
-10. [Web Development](#web-development)
-11. [Writing for DataCamp](#writing-for-datacamp)
-12. [Writing Tips](#writing-tips)
+8. [Networks and Graphs](#networks-and-graphs)
+9. [Sports Analytics](#sports-analytics)
+10. [Visualization](#visualization)
+11. [Web Development](#web-development)
+12. [Writing for DataCamp](#writing-for-datacamp)
+13. [Writing Tips](#writing-tips)
 
 
 ___
@@ -77,7 +78,6 @@ ___
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
 | Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
-| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 | Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |
 
 ___
@@ -103,6 +103,15 @@ ___
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 
 ___
+<a name="networks-and-graphs"></a>
+## Networks and Graphs :globe_with_meridians:
+| Title | Article | Repo |
+| --- | --- | --- |
+| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
+| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
+| A No-Code Approach to Building Knowledge Graphs | [:link:](https://blog.kgbase.com/a-no-code-approach-to-building-knowledge-graphs/) | - |
+
+___
 <a name="sports-analytics"></a>
 ## Sports Analytics :soccer:
 | Title | Article | Repo |
@@ -118,7 +127,6 @@ ___
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
 | Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63?sk=6ac0cffbe15e0d152bed9b6440c78a24) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
 | How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875?sk=89e9e58c0b0c2e47525051f5f88d4048) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
-| How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 
 ___
 <a name="web-development"></a>
