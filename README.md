@@ -94,7 +94,7 @@ ___
 | Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
 | Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
-| End-to-End AutoML Pipeline with H2O, MLflow, FastAPI, and Streamlit for Life Insurance Risk Assessment | *Coming Soon* | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
+| End-to-End AutoML Pipeline with H2O, MLflow, FastAPI, and Streamlit for Life Insurance Risk Assessment | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 
 
 
