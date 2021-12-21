@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by to my GitHub portfolio! I'm a data scientist and a double-licensed pharmacist with side interests in technical writing and full-stack web development
+- Thanks for popping by to my GitHub portfolio! I'm a data scientist and a dual-licensed pharmacist with side interests in technical writing and full-stack web development
 - An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
@@ -30,6 +30,7 @@
 12. [Writing for DataCamp](#writing-for-datacamp)
 13. [Writing Tips](#writing-tips)
 
+Note: The projects tagged with [:star:] are my personal favourites!
 
 ___
 <a name="computer-vision"></a>
