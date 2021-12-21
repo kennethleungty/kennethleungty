@@ -4,6 +4,8 @@
 - An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
 
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green)
+
 <h3> How to reach me </h3>
 <div>
     <a href="https://www.linkedin.com/in/kennethleungty/">
@@ -14,8 +16,6 @@
     </a>&nbsp;&nbsp; -->
 </div>
 <hr>
-
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green)
 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
