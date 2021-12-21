@@ -30,7 +30,7 @@
 12. [Writing for DataCamp](#writing-for-datacamp)
 13. [Writing Tips](#writing-tips)
 
-Note: The projects tagged with [:star:] are my personal favourites!
+Note: The projects tagged with :star: are my personal favourites!
 
 ___
 <a name="computer-vision"></a>
@@ -41,7 +41,7 @@ ___
 | Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c?sk=263f4351c3c2c5cd9c60a4469b9dab08) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
 | Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510?sk=9b76f0a994edc90c105f71ac2f7d725f) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
 | Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e?sk=a45cb5c2070f8434f876d48597addd33) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
-| PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
+| :star: PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
 
 ___
 <a name="data-extraction-and-web-scraping"></a>
@@ -89,13 +89,13 @@ ___
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
-| Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
+| :star: Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
 | Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
 | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
 | Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
-| Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
+| :star: Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
-| End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
+| :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 
 
 
@@ -111,7 +111,7 @@ ___
 ## Networks and Graphs :globe_with_meridians:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
+| :star: Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 | How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 | A No-Code Approach to Building Knowledge Graphs | [:link:](https://towardsdatascience.com/a-no-code-approach-to-building-knowledge-graphs-ce5d6b244b2b?sk=36c9171d5774e277a164618901ab5b94) | [:link:](https://blog.kgbase.com/a-no-code-approach-to-building-knowledge-graphs/) |
 
@@ -120,7 +120,7 @@ ___
 ## Sports Analytics :soccer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?sk=4d968e99ff9ec1e1322bb69fc0af280c) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
+| :star: Analyzing English Premier League VAR Football Decisions | [:link:](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?sk=4d968e99ff9ec1e1322bb69fc0af280c) | [:link:](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 | Combining Python and R for FIFA Football World Ranking Analysis | [:link:](https://towardsdatascience.com/combining-python-and-r-for-fifa-football-world-ranking-analysis-d71bb6ceacdb) | [:link:](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
 
 ___
@@ -137,7 +137,7 @@ ___
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
 | --- | --- | --- |
-| Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
+| :star: Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 | From HTTP to HTTPS — Easily Secure Flask Web Apps With Talisman | [:link:](https://betterprogramming.pub/from-http-to-https-easily-secure-flask-web-apps-with-talisman-3359692d3eac?sk=bdee663dbbb69bee8b40dd952a693e3e) | - |
 
 ___
