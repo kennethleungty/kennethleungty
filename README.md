@@ -15,6 +15,8 @@
 </div>
 <hr>
 
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green)
+
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
@@ -145,7 +147,7 @@ ___
 ## Writing for DataCamp :writing_hand:
 | Title | Article | Repo |
 | --- | --- | --- |
-| What Mature Data Infrastructure Looks Like | [:link:](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
+| :star: What Mature Data Infrastructure Looks Like | [:link:](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
 | Democratizing Data in Government Agencies | [:link:](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
 | A Survey Into Data Governance Tools | [:link:](https://www.datacamp.com/community/blog/a-survey-into-data-governance-tools) | - |
 | Scaling Data Science With Data Governance | [:link:](https://www.datacamp.com/community/blog/scaling-data-science-with-data-governance) | - |
