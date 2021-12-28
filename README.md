@@ -23,10 +23,10 @@
 3. [Data Science Certification Guides](#data-science-certification-guides)
 4. [Data Science Tools](#data-science-tools)
 5. [Healthcare and Data Science](#drugs-and-data)
-6. [Machine Learning](#machine-learning)
-7. [Natural Language Processing](#natural-language-processing)
-8. [Networks and Graphs](#networks-and-graphs)
-9. [Seminars and Talks](#seminars)
+6. [Insights from Data Science Seminars](#seminars)
+7. [Machine Learning](#machine-learning)
+8. [Natural Language Processing](#natural-language-processing)
+9. [Networks and Graphs](#networks-and-graphs)
 10. [Sports Analytics](#sports-analytics)
 11. [Visualization](#visualization)
 12. [Web Development](#web-development)
@@ -77,7 +77,7 @@ ___
 
 ___
 <a name="seminars"></a>
-## Insights from Seminars :man_teacher:
+## Insights from Data Science Seminars :man_teacher:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Bridging AI’s Proof-of-Concept to Production Gap — Insights from Andrew Ng | [:link:](https://towardsdatascience.com/bridging-ais-proof-of-concept-to-production-gap-insights-from-andrew-ng-f2ac119ee737?sk=3a5e77fd5e3d7f4ca4f6118a6c98c7af) | - |
