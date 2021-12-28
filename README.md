@@ -26,11 +26,12 @@
 6. [Machine Learning](#machine-learning)
 7. [Natural Language Processing](#natural-language-processing)
 8. [Networks and Graphs](#networks-and-graphs)
-9. [Sports Analytics](#sports-analytics)
-10. [Visualization](#visualization)
-11. [Web Development](#web-development)
-12. [Writing for DataCamp](#writing-for-datacamp)
-13. [Writing Tips](#writing-tips)
+9. [Seminars and Talks](#seminars)
+10. [Sports Analytics](#sports-analytics)
+11. [Visualization](#visualization)
+12. [Web Development](#web-development)
+13. [Writing for DataCamp](#writing-for-datacamp)
+14. [Writing Tips](#writing-tips)
 
 **Psst: Projects tagged with :star: are my personal favourites, so feel free to check them out!**
 
@@ -73,6 +74,13 @@ ___
 | Most Starred and Forked GitHub Repos for Data Science and R | [:link:](https://medium.datadriveninvestor.com/most-starred-and-forked-github-repos-for-r-in-data-science-fb87a54d2a6a?sk=3a74fb3e788faa2307b98dfdabf51384) | - |
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97?sk=995415e038af91d9a18f9f8e21b04efb) | - |
 | Read and Modify Image Metadata with Python | [:link:](https://towardsdatascience.com/read-and-edit-image-metadata-with-python-f635398cd991?sk=ff7814558f3642d356d0988dc188008a) | [:link:](https://github.com/kennethleungty/Image-Metadata-Exif) |
+
+___
+<a name="seminars"></a>
+## Insights from Seminars :man_teacher:
+| Title | Article | Repo |
+| --- | --- | --- |
+| Bridging AI’s Proof-of-Concept to Production Gap — Insights from Andrew Ng | [:link:](https://towardsdatascience.com/bridging-ais-proof-of-concept-to-production-gap-insights-from-andrew-ng-f2ac119ee737?sk=3a5e77fd5e3d7f4ca4f6118a6c98c7af) | - |
 
 ___
 <a name="drugs-and-data"></a>
