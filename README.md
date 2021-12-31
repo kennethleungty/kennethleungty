@@ -2,7 +2,7 @@
 
 - Thanks for popping by to my GitHub portfolio! I'm a data scientist and a dual-licensed pharmacist with side interests in technical writing and full-stack web development
 - An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
-- I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty)
+- I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty) to stay in the loop of exciting and insightful content.
 
 ![](https://komarev.com/ghpvc/?username=kennethleungty&color=green)
 
@@ -33,7 +33,7 @@
 13. [Writing for DataCamp](#writing-for-datacamp)
 14. [Writing Tips](#writing-tips)
 
-**Psst: Projects tagged with :star: are my personal favourites, so feel free to check them out!**
+**Psst: Projects tagged with :star: are my personal favourites, so do check them out!**
 
 ___
 <a name="computer-vision"></a>
