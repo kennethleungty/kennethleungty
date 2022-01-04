@@ -106,7 +106,7 @@ ___
 | :star: Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
 | :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
-| Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://kennethleungty.medium.com/b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
+| Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 
 ___
 <a name="natural-language-processing"></a>
