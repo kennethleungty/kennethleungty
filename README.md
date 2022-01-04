@@ -4,7 +4,7 @@
 - An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
 - I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty) to stay in the loop of exciting and insightful content.
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+Count&message=34&color=2ea44f)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+Count&message=51&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
