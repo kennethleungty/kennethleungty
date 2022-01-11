@@ -30,10 +30,11 @@
 10. [Sports Analytics](#sports-analytics)
 11. [Visualization](#visualization)
 12. [Web Development](#web-development)
-13. [Writing for DataCamp](#writing-for-datacamp)
-14. [Writing Tips](#writing-tips)
+13. [Web3 & Metaverse](#web3)
+14. [Writing for DataCamp](#writing-for-datacamp)
+15. [Writing Tips](#writing-tips)
 
-**Psst: Projects tagged with :star: are my personal favourites, so do check them out!**
+**Projects tagged with :star: are my personal favourites, so do check them out!**
 
 ___
 <a name="computer-vision"></a>
@@ -148,6 +149,14 @@ ___
 | --- | --- | --- |
 | :star: Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 | From HTTP to HTTPS — Easily Secure Flask Web Apps With Talisman | [:link:](https://betterprogramming.pub/from-http-to-https-easily-secure-flask-web-apps-with-talisman-3359692d3eac?sk=bdee663dbbb69bee8b40dd952a693e3e) | - |
+
+
+___
+<a name="web3"></a>
+## Web3 & Metaverse :man_technologist:
+| Title | Article | Repo |
+| --- | --- | --- |
+| The Web3 / Metaverse Glossary — A Keyword Guide to the Tech Future | [:link:](https://medium.datadriveninvestor.com/the-web3-metaverse-glossary-a-keyword-guide-to-the-tech-future-42afedd9c3c0?sk=2515b48545a28d1d185608e405442aa5) | - |
 
 ___
 <a name="writing-for-datacamp"></a>
