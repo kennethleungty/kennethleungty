@@ -30,7 +30,7 @@
 10. [Sports Analytics](#sports-analytics)
 11. [Visualization](#visualization)
 12. [Web Development](#web-development)
-13. [Web3 & Metaverse](#web3)
+13. [Web3 and Metaverse](#web3)
 14. [Writing for DataCamp](#writing-for-datacamp)
 15. [Writing Tips](#writing-tips)
 
@@ -153,7 +153,7 @@ ___
 
 ___
 <a name="web3"></a>
-## Web3 & Metaverse :man_technologist:
+## Web3 and Metaverse :man_technologist:
 | Title | Article | Repo |
 | --- | --- | --- |
 | The Web3 / Metaverse Glossary — A Keyword Guide to the Tech Future | [:link:](https://medium.datadriveninvestor.com/the-web3-metaverse-glossary-a-keyword-guide-to-the-tech-future-42afedd9c3c0?sk=2515b48545a28d1d185608e405442aa5) | - |
