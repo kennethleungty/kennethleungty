@@ -149,7 +149,7 @@ ___
 | --- | --- | --- |
 | :star: Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 | From HTTP to HTTPS — Easily Secure Flask Web Apps With Talisman | [:link:](https://betterprogramming.pub/from-http-to-https-easily-secure-flask-web-apps-with-talisman-3359692d3eac?sk=bdee663dbbb69bee8b40dd952a693e3e) | - |
-
+| :star: Food King Directory (in collaboration with Night Owl Cinematics) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6889772186220019712/) | [:link:](https://directory.foodking.sg) |
 
 ___
 <a name="web3"></a>
