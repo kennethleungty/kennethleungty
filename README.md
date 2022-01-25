@@ -75,7 +75,7 @@ ___
 | Most Starred and Forked GitHub Repos for Data Science and R | [:link:](https://medium.datadriveninvestor.com/most-starred-and-forked-github-repos-for-r-in-data-science-fb87a54d2a6a?sk=3a74fb3e788faa2307b98dfdabf51384) | - |
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97?sk=995415e038af91d9a18f9f8e21b04efb) | - |
 | Read and Modify Image Metadata with Python | [:link:](https://towardsdatascience.com/read-and-edit-image-metadata-with-python-f635398cd991?sk=ff7814558f3642d356d0988dc188008a) | [:link:](https://github.com/kennethleungty/Image-Metadata-Exif) |
-| Top Tips to Google Search Like a Data Science Professional | [:link:](https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae?sk=710f416b4c7c329ee084c54ec67abf0a) | - |
+| Top Tips to Google Search Like a Seasoned Data Scientist | [:link:](https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae?sk=710f416b4c7c329ee084c54ec67abf0a) | - |
 
 ___
 <a name="seminars"></a>
