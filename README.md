@@ -39,7 +39,7 @@
 
 ___
 <a name="computer-vision"></a>
-## Computer Vision :eye_speech_bubble:
+## Computer Vision :eye:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Classifying Images of Alcoholic Beverages with fast.ai v2 | [:link:](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543?sk=d0efa0e6b6d214c52b337a0381a4fd3d) | [:link:](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
