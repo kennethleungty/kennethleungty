@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Kenneth Leung
+## 👋 Hello, I'm Kenneth
 
 - Thanks for popping by! I'm a data scientist and a dual-licensed pharmacist with keen interests in technical writing and full-stack web development
 - An avid learner and driven doer with a bias towards action, I enjoy learning, seeking, and solving meaningful problems with the use of technology and data.
