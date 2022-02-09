@@ -149,7 +149,7 @@ ___
 
 ___
 <a name="visualization"></a>
-## Visualization :chart:
+## Visualization :chart_with_upwards_trend:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
