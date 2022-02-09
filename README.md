@@ -9,10 +9,10 @@
 
 <h3> How to reach me </h3>
 <div>
-    <a href="https://www.linkedin.com/in/kennethleungty/">
+    <a href="https://www.linkedin.com/in/kennethleungty/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
     </a>&nbsp
-    <a href="https://www.buymeacoffee.com/kennethleung/">    
+    <a href="https://www.buymeacoffee.com/kennethleung/" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>&nbsp
 <!--     <a href="https://github.com/kennethleungty/">
