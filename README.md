@@ -57,7 +57,7 @@ ___
 ## Database Management :file_cabinet:   
 | Title | Article | Repo |
 | --- | --- | --- |    
-| Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) |    
+| :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) |    
     
 ___
 <a name="data-extraction-and-web-scraping"></a>
