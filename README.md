@@ -23,20 +23,21 @@
 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
-2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-3. [Data Science Certification Guides](#data-science-certification-guides)
-4. [Data Science Toolkit](#data-science-tools)
-5. [Healthcare and Data Science](#drugs-and-data)
-6. [Insights from Data Science Seminars](#seminars)
-7. [Machine Learning](#machine-learning)
-8. [Natural Language Processing](#natural-language-processing)
-9. [Networks and Graphs](#networks-and-graphs)
-10. [Sports Analytics](#sports-analytics)
-11. [Visualization](#visualization)
-12. [Web Development](#web-development)
-13. [Web3 and Metaverse](#web3)
-14. [Writing for DataCamp](#writing-for-datacamp)
-15. [Writing Tips](#writing-tips)
+2. [Database Management](#database)
+3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+4. [Data Science Certification Guides](#data-science-certification-guides)
+5. [Data Science Toolkit](#data-science-tools)
+6. [Healthcare and Data Science](#drugs-and-data)
+7. [Insights from Data Science Seminars](#seminars)
+8. [Machine Learning](#machine-learning)
+9. [Natural Language Processing](#natural-language-processing)
+10. [Networks and Graphs](#networks-and-graphs)
+11. [Sports Analytics](#sports-analytics)
+12. [Visualization](#visualization)
+13. [Web Development](#web-development)
+14. [Web3 and Metaverse](#web3)
+15. [Writing for DataCamp](#writing-for-datacamp)
+16. [Writing Tips](#writing-tips)
 
 **Projects tagged with :star: are my personal favourites, so do check them out!**
 
@@ -52,13 +53,20 @@ ___
 | :star: PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
 
 ___
+<a name="database"></a>
+## Database Management :file_cabinet:   
+| Title | Article | Repo |
+| --- | --- | --- |    
+| Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) |    
+    
+___
 <a name="data-extraction-and-web-scraping"></a>
 ## Data Extraction and Web Scraping :toolbox:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
-
+  
 ___
 <a name="data-science-certification-guides"></a>
 ## Data Science Certification Guides :man_student:
@@ -186,8 +194,7 @@ ___
 | Create a Clickable Table of Contents for Your Medium Posts | [:link:](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142?sk=a3993bdd63a3faeb1f324e05007faad9)  | - |
 
 ___
-
-
+    
 <!--
 | Placeholder | [:link:](article_link) | [:link:](github_link) |
 <a name=" "></a>
