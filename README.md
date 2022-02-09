@@ -5,7 +5,7 @@
 - I welcome you to join me on a data/tech learning journey! Feel free to give me a follow on Medium (https://kennethleungty.medium.com) or on LinkedIn (https://linkedin.com/in/kennethleungty) to stay in the loop of exciting and insightful content.
 - Do give my data science portfolio a look, where each project and article was born out of personal inspiration and motivation. Don't hesitate to hit me up for a discussion on topics common to both of us!
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+Count&message=55&color=2ea44f)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=55&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
