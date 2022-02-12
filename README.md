@@ -39,7 +39,7 @@
 15. [Writing for DataCamp](#writing-for-datacamp)
 16. [Writing Tips](#writing-tips)
 
-**Projects tagged with :star: are my personal favourites, so do check them out!**
+**Projects with :star: are my personal favourites, so do check them out!**
 
 ___
 <a name="computer-vision"></a>
