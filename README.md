@@ -5,7 +5,7 @@
 - I welcome you to join me on a data/tech learning journey! Feel free to follow me on [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational content.
 - Here is my data science portfolio, where each project and article was born out of personal inspiration and motivation. Don't hesitate to hit me up for a discussion on topics common to both of us!
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=56&color=2ea44f)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=57&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -74,6 +74,7 @@ ___
 | --- | --- | --- |
 | :star: 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249?sk=b2865229b15eb0342bb0e2030faf8c4a) | [:link:](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
 | 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [:link:](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de?sk=5bbc1f99cc8543bb71683239237d91c9) | - |
+| No-Frills Guide to Passing the AWS Certified Machine Learning Specialty Exam | [:link:](https://towardsdatascience.com/no-frills-guide-to-passing-the-aws-certified-machine-learning-specialty-exam-55624579353f?sk=c21257b289f7d5ae9e1a661957c3a484) | - |
 
 ___
 <a name="data-science-tools"></a>
