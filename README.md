@@ -30,14 +30,15 @@
 6. [Healthcare and Data Science](#drugs-and-data)
 7. [Insights from Data Science Seminars](#seminars)
 8. [Machine Learning](#machine-learning)
-9. [Natural Language Processing](#natural-language-processing)
-10. [Networks and Graphs](#networks-and-graphs)
-11. [Sports Analytics](#sports-analytics)
-12. [Visualization](#visualization)
-13. [Web Development](#web-development)
-14. [Web3 and Metaverse](#web3)
-15. [Writing for DataCamp](#writing-for-datacamp)
-16. [Writing Tips](#writing-tips)
+9. [MLOps](#mlops)
+10. [Natural Language Processing](#natural-language-processing)
+11. [Networks and Graphs](#networks-and-graphs)
+12. [Sports Analytics](#sports-analytics)
+13. [Visualization](#visualization)
+14. [Web Development](#web-development)
+15. [Web3 and Metaverse](#web3)
+16. [Writing for DataCamp](#writing-for-datacamp)
+17. [Writing Tips](#writing-tips)
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
@@ -114,16 +115,24 @@ ___
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
-| :star: Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
-| Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
-| Key Learning Points from MLOps Specialization — Course 3 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-3-9e67558212ee?sk=1b5120c42d3326a11889dc13a354c484) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/3.%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production) |
 | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
 | :star: Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
 | :star: Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
-| :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 
+    
+___
+<a name="mlops"></a>
+## MLOps - Machine Learning Operations :man_mechanic:
+| Title | Article | Repo |
+| --- | --- | --- |
+| Key Learning Points from MLOps Specialization — Course 1 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
+| Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
+| Key Learning Points from MLOps Specialization — Course 3 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-3-9e67558212ee?sk=1b5120c42d3326a11889dc13a354c484) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/3.%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production) |
+| :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
+| :star: Building and Managing Anomaly Detection Pipelines with Isolation Forest and Kedro | *Coming Soon* | [:link:](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
+    
 ___
 <a name="natural-language-processing"></a>
 ## Natural Language Processing :bookmark_tabs:
