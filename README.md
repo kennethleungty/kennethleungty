@@ -131,7 +131,7 @@ ___
 | Key Learning Points from MLOps Specialization — Course 2 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
 | Key Learning Points from MLOps Specialization — Course 3 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-3-9e67558212ee?sk=1b5120c42d3326a11889dc13a354c484) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/3.%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production) |
 | :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [:link:](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
-| :star: Building and Managing Anomaly Detection Pipelines with Isolation Forest and Kedro | *Coming Soon* | [:link:](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
+| :star: Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro | [:link](https://neptune.ai/blog/data-science-pipelines-with-kedro) | [:link:](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
     
 ___
 <a name="natural-language-processing"></a>
