@@ -16,7 +16,7 @@
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>&nbsp
 <!--     <a href="https://github.com/kennethleungty/">
-        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+        <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="30px">
     </a>&nbsp;&nbsp; -->
 </div>
 <hr>
