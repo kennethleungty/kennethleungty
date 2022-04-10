@@ -21,7 +21,7 @@
 </div>
 <hr>
 
-## Portfolio Contents
+## Portfolio Table of Contents
 1. [Computer Vision](#computer-vision)
 2. [Database Management](#database)
 3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
