@@ -3,7 +3,7 @@
 - Thanks for popping by! I'm a data scientist with expertise in technical data science writing and full-stack web development. I also happen to be a licensed drug dealer (i.e. pharmacist).
 - An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems using technology and data.
 - I welcome you to join me on a data/tech learning journey! Feel free to follow me on [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational content.
-- Here is my data science portfolio, where every project and article was born out of personal inspiration, curiosity, and motivation. Don't hesitate to hit me up for a discussion on topics common to both of us!
+- You can find my data science portfolio below, where every project and article was born out of personal inspiration, curiosity, and motivation. Don't hesitate to hit me up for a discussion on topics common to both of us!
 
 ![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=59&color=2ea44f)
 
