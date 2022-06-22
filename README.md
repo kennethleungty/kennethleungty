@@ -5,7 +5,7 @@
 - I welcome you to join me on a data/tech learning journey! Feel free to follow me on [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational content.
 - You can find my data science portfolio below, where every project and article was born out of personal inspiration, curiosity, and motivation. Don't hesitate to hit me up for a discussion on topics common to both of us!
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=61&color=2ea44f)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=62&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -27,7 +27,7 @@
 3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
 4. [Data Science Certification Guides](#data-science-certification-guides)
 5. [Data Science Toolkit](#data-science-tools)
-6. [Healthcare and Data Science](#drugs-and-data)
+6. [Data Science in the Real World](#real-world-data-science)
 7. [Insights from Data Science Seminars](#seminars)
 8. [Machine Learning](#machine-learning)
 9. [MLOps](#mlops)
@@ -92,20 +92,22 @@ ___
 | Top Tips to Google Search Like a Seasoned Data Scientist | [:link:](https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae?sk=710f416b4c7c329ee084c54ec67abf0a) | - |
 
 ___
+<a name="real-world-data-science"></a>
+## Data Science in the Real World :earth_asia:
+| Title | Article | Repo |
+| --- | --- | --- |
+| Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
+| Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
+| Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |    
+| Real-World Data Science Use Cases in the Insurance Industry | [:link:](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
+    
+___
 <a name="seminars"></a>
 ## Insights from Data Science Seminars :man_teacher:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Bridging AI’s Proof-of-Concept to Production Gap — Insights from Andrew Ng | [:link:](https://towardsdatascience.com/bridging-ais-proof-of-concept-to-production-gap-insights-from-andrew-ng-f2ac119ee737?sk=3a5e77fd5e3d7f4ca4f6118a6c98c7af) | - |
-
-___
-<a name="drugs-and-data"></a>
-## Healthcare and Data Science :pill:
-| Title | Article | Repo |
-| --- | --- | --- |
-| Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
-| Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
-| Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |
+    
 
 ___
 <a name="machine-learning"></a>
@@ -117,9 +119,9 @@ ___
 | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
 | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
 | :star: Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
-| :star: Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
+| Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
-| Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
+| :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
     
 ___
