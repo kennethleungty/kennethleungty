@@ -7,7 +7,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/kennethleungty/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=62&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=63&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -125,6 +125,7 @@ ___
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
 | :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
+| :star: Feature Selection using Simulated Annealing, Clearly Explained | *Coming Soon* | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
     
 ___
 <a name="mlops"></a>
