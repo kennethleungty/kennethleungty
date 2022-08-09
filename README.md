@@ -5,7 +5,7 @@
 - I welcome you to join me on a data/tech learning journey! Feel free to follow me on [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational content.
 - You can find my data science portfolio below, where every project and article was born out of personal inspiration, curiosity, and motivation. Don't hesitate to hit me up for a chat on topics common to both of us!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/kennethleungty/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/kennethleungty)
 
 ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=63&color=2ea44f)
 
