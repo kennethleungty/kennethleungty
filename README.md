@@ -11,15 +11,16 @@
 
 <h3> How to reach me </h3>
 <div>
-    <a href="https://www.linkedin.com/in/kennethleungty/" target="_blank">
+    <a href="https://www.linkedin.com/in/kennethleungty" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
     </a>&nbsp
-    <a href="https://www.buymeacoffee.com/kennethleung/" target="_blank">    
+    <a href="https://www.buymeacoffee.com/kennethleung" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>&nbsp
-<!--     <a href="https://github.com/kennethleungty/">
-        <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="30px">
-    </a>&nbsp;&nbsp; -->
+    <a href="https://calendly.com/kennethleungty/chat" target="_blank">
+        <img src="https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat" height="30">
+    </a>&nbsp
+    
 </div>
 <hr>
 
