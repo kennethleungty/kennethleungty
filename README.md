@@ -126,7 +126,7 @@ ___
 | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
 | :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
-| :star: Feature Selection using Simulated Annealing, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
+| :star: Feature Selection with Simulated Annealing in Python, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
     
 ___
 <a name="mlops"></a>
