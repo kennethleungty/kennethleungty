@@ -5,7 +5,7 @@
 - I welcome you to join me on a learning journey! Follow me on [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational content.
 - You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Don't hesitate to hit me up for a chat on topics common to both of us!
 
-- :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed ML](https://github.com/kennethleungty/Failed-ML). If you would like to join me in contributing, let's connect!**
+- :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
 ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=64&color=2ea44f)
 
