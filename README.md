@@ -102,7 +102,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [:link:](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [:link:](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
-| Pharmacokinetic Modelling of Drug Concentration Trajectories with Ordinary Differential Equations (ODE) and Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
+| Pharmacokinetic Modeling of Drug Concentration Trajectories using Ordinary Differential Equations (ODE) and Global Optimization with Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
 | Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |    
 | Real-World Data Science Use Cases in the Insurance Industry | [:link:](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
     
