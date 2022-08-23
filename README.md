@@ -7,7 +7,7 @@
 
 - :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=65&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=66&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -105,6 +105,7 @@ ___
 | Pharmacokinetic Modeling of Drug Concentration Trajectories using Ordinary Differential Equations (ODE) and Global Optimization with Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
 | Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |    
 | Real-World Data Science Use Cases in the Insurance Industry | [:link:](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
+| Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | - | [:link:](https://github.com/kennethleungty/Failed-ML) |
     
 ___
 <a name="seminars"></a>
@@ -129,8 +130,9 @@ ___
 | :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
 | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
 | :star: Feature Selection with Simulated Annealing in Python, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
+| Quick Primer on Types of Missing Data and Imputation Techniques | [:link:](https://medium.com/geekculture/quick-primer-on-types-of-missing-data-and-imputation-techniques-cf253ce88755?sk=efe876f9c0d658a326ad4520bc5076e7) | - |
 | Imputation of Missing Data in Tables with DataWig | *Coming Soon* | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
-| Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | - | [:link:](https://github.com/kennethleungty/Failed-ML) |
+
     
 ___
 <a name="mlops"></a>
