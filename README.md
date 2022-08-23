@@ -2,8 +2,8 @@
 
 - Thanks for popping by! I'm a data scientist (and licensed pharmacist) with expertise in technical data science writing and full-stack web development.
 - An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with tech and data.
-- I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay in the loop of practical educational data science content.
-- You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Don't hesitate to hit me up for a chat on topics common to both of us!
+- I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com) and [LinkedIn](https://linkedin.com/in/kennethleungty) for a good dose of practical educational data science content.
+- You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Don't hesitate to reach out for a chat on topics common to both of us!
 
 - :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
