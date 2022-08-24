@@ -131,7 +131,7 @@ ___
 | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
 | :star: Feature Selection with Simulated Annealing in Python, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
 | Quick Primer on Types of Missing Data and Imputation Techniques | [:link:](https://medium.com/geekculture/quick-primer-on-types-of-missing-data-and-imputation-techniques-cf253ce88755?sk=efe876f9c0d658a326ad4520bc5076e7) | - |
-| Imputation of Missing Data in Tables with DataWig | [:link](https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2) | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
+| Imputation of Missing Data in Tables with DataWig | [:link:](https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2?sk=0462569e9e01e3c9681c985631ca3b51) | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
 
     
 ___
