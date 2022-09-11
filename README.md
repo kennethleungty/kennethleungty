@@ -7,7 +7,7 @@
 
 - :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=66&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=67&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -63,7 +63,9 @@ ___
 ## Database Management :file_cabinet:   
 | Title | Article | Repo |
 | --- | --- | --- |    
-| :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) |    
+| :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) | 
+| PyMySQL - Connecting Python and SQL | *Coming Soon* | [:link:](https://github.com/kennethleungty/PyMySQL-Demo) | 
+
     
 ___
 <a name="data-extraction-and-web-scraping"></a>
