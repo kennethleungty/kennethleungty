@@ -7,7 +7,7 @@
 
 - :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=67&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=68&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -57,6 +57,7 @@ ___
 | Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510?sk=9b76f0a994edc90c105f71ac2f7d725f) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
 | Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e?sk=a45cb5c2070f8434f876d48597addd33) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
 | :star: PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
+| TensorFlow Tutorial - Transfer Learning for Multi-Class Car Image Classification | *Coming Soon* | [:link:](https://github.com/kennethleungty/TensorFlow-Transfer-Learning-Image-Classification) |
 
 ___
 <a name="database"></a>
