@@ -24,7 +24,7 @@
 </div>
 <hr>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/kennethleungty)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/kennethleungty) -->
 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
