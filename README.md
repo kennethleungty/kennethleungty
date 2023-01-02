@@ -7,7 +7,7 @@
 
 - :man_mechanic: **Currently working on a compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=68&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=69&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -98,6 +98,7 @@ ___
 | Automatically Generate Machine Learning Code with Just a Few Clicks | [:link:](https://towardsdatascience.com/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97?sk=995415e038af91d9a18f9f8e21b04efb) | - |
 | Read and Modify Image Metadata with Python | [:link:](https://towardsdatascience.com/read-and-edit-image-metadata-with-python-f635398cd991?sk=ff7814558f3642d356d0988dc188008a) | [:link:](https://github.com/kennethleungty/Image-Metadata-Exif) |
 | Top Tips to Google Search Like a Seasoned Data Scientist | [:link:](https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae?sk=710f416b4c7c329ee084c54ec67abf0a) | - |
+| How to Swap Day and Month of Incorrectly Formatted Excel Dates | [:link:](https://medium.datadriveninvestor.com/how-to-swap-day-and-month-of-incorrectly-formatted-excel-dates-503dfc7ad7da?sk=1b7154a961c4dd8a1ab0ef791a3922fc) | - |
 
 ___
 <a name="real-world-data-science"></a>
