@@ -33,17 +33,18 @@
 4. [Data Science Certification Guides](#data-science-certification-guides)
 5. [Data Science Toolkit](#data-science-tools)
 6. [Data Science in the Real World](#real-world-data-science)
-7. [Insights from Data Science Seminars](#seminars)
-8. [Machine Learning](#machine-learning)
-9. [MLOps](#mlops)
-10. [Natural Language Processing](#natural-language-processing)
-11. [Networks and Graphs](#networks-and-graphs)
-12. [Sports Analytics](#sports-analytics)
-13. [Visualization](#visualization)
-14. [Web Development](#web-development)
-15. [Web3 and Metaverse](#web3)
-16. [Writing for DataCamp](#writing-for-datacamp)
-17. [Writing Tips](#writing-tips)
+7. [Generative AI](#generative-ai)
+8. [Insights from Data Science Seminars](#seminars)
+9. [Machine Learning](#machine-learning)
+10. [MLOps](#mlops)
+11. [Natural Language Processing](#natural-language-processing)
+12. [Networks and Graphs](#networks-and-graphs)
+13. [Sports Analytics](#sports-analytics)
+14. [Visualization](#visualization)
+15. [Web Development](#web-development)
+16. [Web3 and Metaverse](#web3)
+17. [Writing for DataCamp](#writing-for-datacamp)
+18. [Writing Tips](#writing-tips)
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
@@ -110,7 +111,13 @@ ___
 | Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |    
 | Real-World Data Science Use Cases in the Insurance Industry | [:link:](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
 | :star: Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | - | [:link:](https://github.com/kennethleungty/Failed-ML) |
-    
+
+___
+<a name="generative-ai"></a>
+## Generative AI :robot:    
+| Title | Article | Repo |
+| --- | --- | --- |
+| Generative AI Pharmacist - Macy | *Coming Soon* | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
 ___
 <a name="seminars"></a>
 ## Insights from Data Science Seminars :man_teacher:
