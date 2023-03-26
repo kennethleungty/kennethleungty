@@ -8,7 +8,7 @@
 
 - :man_mechanic: **Currently working on: (i) Applied Generative AI Use Cases, and (ii) Compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=70&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=71&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -166,6 +166,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
+| Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy | *Coming Soon!*| [:link:](https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy) |
 
 ___
 <a name="networks-and-graphs"></a>
