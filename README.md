@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Kenneth Leung (Data Scientist)
+## 👋 Hello, I'm Kenneth Leung
 
 - Thanks for popping by!
 - An avid learner, bold builder, curious explorer, and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with data and technology while having fun at the same time. 
