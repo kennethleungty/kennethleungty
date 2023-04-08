@@ -8,7 +8,7 @@
 
 - :man_mechanic: **Currently working on: (i) Applied Generative AI Use Cases, and (ii) Compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=71&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=72&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -118,8 +118,10 @@ ___
 ## Generative AI :robot:    
 | Title | Article | Repo |
 | --- | --- | --- |
-| Generative AI Pharmacist - Macy | *Coming Soon* | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
+| Generative AI Pharmacist - Macy | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
+| :star: ChatPod - Q&A over your Podcasts | *Coming Soon* | [:link:](https://chatpod.onrender.com/) |
 ___
+
 <a name="seminars"></a>
 ## Insights from Data Science Seminars :man_teacher:
 | Title | Article | Repo |
