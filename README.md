@@ -119,7 +119,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Generative AI Pharmacist - Macy | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
-| :star: ChatPod - Q&A over your Podcasts | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [:link:](https://chatpod.onrender.com/) |
+| :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [:link:](https://chatpod.onrender.com/) |
 ___
 
 <a name="seminars"></a>
