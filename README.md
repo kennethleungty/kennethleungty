@@ -168,7 +168,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
-| Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy | *Coming Soon!*| [:link:](https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy) |
+| Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy | [:link:](https://towardsdatascience.com/arxiv-keyword-extraction-and-analysis-pipeline-with-keybert-and-taipy-2972e81d9fa4?sk=b45c99c3d1104e3eeea80d9c3fb1a993) | [:link:](https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy) |
 
 ___
 <a name="networks-and-graphs"></a>
