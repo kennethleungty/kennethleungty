@@ -120,6 +120,7 @@ ___
 | --- | --- | --- |
 | Generative AI Pharmacist - Macy | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
 | :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [:link:](https://github.com/kennethleungty/ChatPod/) |
+| :star: Running Open-Source LLMs on CPU Inference for Document Q&A | *Coming Soon* | [:link:](https://github.com/kennethleungty/Open-Source-LLM-CPU-Inference) |
 ___
 
 <a name="seminars"></a>
