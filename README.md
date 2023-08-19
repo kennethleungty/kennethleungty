@@ -109,7 +109,7 @@ ___
 | Pharmacokinetic Modeling of Drug Concentration Trajectories using Ordinary Differential Equations (ODE) and Global Optimization with Differential Evolution | - | [:link:](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
 | Healthcare’s AI Future — In Conversation with Andrew Ng and Fei-Fei Li | [:link:](https://towardsdatascience.com/healthcares-ai-future-conversation-with-andrew-ng-and-fei-fei-li-a6eacb6aaaf1?sk=be96a46cc7df4fe5abe4bdf810b9518d) | - |    
 | Real-World Data Science Use Cases in the Insurance Industry | [:link:](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
-| :star: Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | - | [:link:](https://github.com/kennethleungty/Failed-ML) |
+| :star: Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | [:link:](https://towardsdatascience.com/when-ai-goes-astray-high-profile-machine-learning-mishaps-in-the-real-world-26bd58692195?sk=7b1b9831399403b123523172e74c8ddd) | [:link:](https://github.com/kennethleungty/Failed-ML) |
 
 ___
 <a name="generative-ai"></a>
