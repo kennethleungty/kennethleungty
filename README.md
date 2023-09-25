@@ -6,7 +6,7 @@
 - You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
 - :man_mechanic: **Currently working on: (i) Applied Generative AI Use Cases, and (ii) Compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=73&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=74&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -119,6 +119,7 @@ ___
 | Generative AI Pharmacist - Macy | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [:link:](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
 | :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [:link:](https://github.com/kennethleungty/ChatPod/) |
 | :star: Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A | [:link:](https://kennethleungty.medium.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8?sk=d9e9f1ad0ff72e66adf11e0226ad4489) | [:link:](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) |
+| Domain LLMs - Comprehensive Compilation of Customized Large Language Models for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 ___
 
 <a name="seminars"></a>
