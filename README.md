@@ -33,7 +33,7 @@
 5. [Data Science Toolkit](#data-science-tools)
 6. [Data Science in the Real World](#real-world-data-science)
 7. [Generative AI](#generative-ai)
-8. [Insights from Data Science Seminars](#seminars)
+8. [Insights from Data Science Talks](#talks)
 9. [Machine Learning](#machine-learning)
 10. [MLOps](#mlops)
 11. [Natural Language Processing](#natural-language-processing)
@@ -122,8 +122,8 @@ ___
 | Domain LLMs - Comprehensive Compilation of Customized LLMs for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 ___
 
-<a name="seminars"></a>
-## Insights from Data Science Seminars :man_teacher:
+<a name="talks"></a>
+## Insights from Data Science Talks :man_teacher:
 | Title | Article | Repo |
 | --- | --- | --- |
 | Bridging AI’s Proof-of-Concept to Production Gap — Insights from Andrew Ng | [:link:](https://towardsdatascience.com/bridging-ais-proof-of-concept-to-production-gap-insights-from-andrew-ng-f2ac119ee737?sk=3a5e77fd5e3d7f4ca4f6118a6c98c7af) | - |
