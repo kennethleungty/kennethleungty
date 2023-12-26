@@ -6,7 +6,7 @@
 - You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
 - :man_mechanic: **Currently working on: (i) Applied Generative AI Use Cases, and (ii) Compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=76&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=77&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -122,6 +122,7 @@ ___
 | Domain LLMs - Compilation of Customized LLMs for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 | :star: Text-to-Audio Generation with Bark, Clearly Explained | [:link:](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [:link:](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
 | Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [:link:](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
+| Web Scraping of Wikipedia with LLM Agents | *Coming Soon* | [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
 ___
 
 <a name="talks"></a>
