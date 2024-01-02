@@ -75,7 +75,7 @@ ___
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
-| How to Web Scrape Wikipedia using LangChain agents and tools with OpenAI's LLMs and function calling | *Coming Soon* | [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
+| :star: How to Web Scrape Wikipedia using LangChain agents and tools with OpenAI's LLMs and function calling | *Coming Soon* | [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
   
 ___
 <a name="data-science-certification-guides"></a>
