@@ -75,6 +75,7 @@ ___
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
+| How to Web Scrape Wikipedia using LangChain agents and tools with OpenAI's LLMs and function calling | *Coming Soon* | [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
   
 ___
 <a name="data-science-certification-guides"></a>
@@ -122,7 +123,6 @@ ___
 | Domain LLMs - Compilation of Customized LLMs for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 | :star: Text-to-Audio Generation with Bark, Clearly Explained | [:link:](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [:link:](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
 | Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [:link:](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
-| Web Scraping of Wikipedia with LLM Agents | *Coming Soon* | [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
 ___
 
 <a name="talks"></a>
