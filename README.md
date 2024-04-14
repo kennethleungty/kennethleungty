@@ -2,10 +2,9 @@
 
 - Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with data and technology while having fun at the same time. 
 - I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) for a great dose of practical educational data science content.
-- You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
-- :man_mechanic: **Currently working on: (i) Applied Generative AI Use Cases, and (ii) Compilation of high-profile ML failures: [Failed-ML](https://github.com/kennethleungty/Failed-ML). If you're keen to join me in contributing, let's connect!**
+- You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=77&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=78&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -122,6 +121,7 @@ ___
 | Domain LLMs - Compilation of Customized LLMs for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 | :star: Text-to-Audio Generation with Bark, Clearly Explained | [:link:](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [:link:](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
 | Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [:link:](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
+| Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | *Coming Soon* | - |
 ___
 
 <a name="talks"></a>
