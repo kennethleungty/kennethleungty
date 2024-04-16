@@ -121,7 +121,7 @@ ___
 | Domain LLMs - Compilation of Customized LLMs for Specific Domains and Industries | - | [:link:](https://github.com/kennethleungty/Domain-LLMs) |
 | :star: Text-to-Audio Generation with Bark, Clearly Explained | [:link:](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [:link:](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
 | Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [:link:](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
-| Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | *Coming Soon* | - |
+| Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [:link:](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
 ___
 
 <a name="talks"></a>
