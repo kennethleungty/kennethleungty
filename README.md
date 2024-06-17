@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=78&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=79&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -36,12 +36,13 @@
 10. [MLOps](#mlops)
 11. [Natural Language Processing](#natural-language-processing)
 12. [Networks and Graphs](#networks-and-graphs)
-13. [Sports Analytics](#sports-analytics)
-14. [Visualization](#visualization)
-15. [Web Development](#web-development)
-16. [Web3 and Metaverse](#web3)
-17. [Writing for DataCamp](#writing-for-datacamp)
-18. [Writing Tips](#writing-tips)
+13. [Responsible AI](#responsible-ai)
+14. [Sports Analytics](#sports-analytics)
+15. [Visualization](#visualization)
+16. [Web Development](#web-development)
+17. [Web3 and Metaverse](#web3)
+18. [Writing for DataCamp](#writing-for-datacamp)
+19. [Writing Tips](#writing-tips)
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
@@ -180,6 +181,14 @@ ___
 | :star: Network Analysis and Visualization of Drug-Drug Interactions | [:link:](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [:link:](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 | How to Deploy Interactive Pyvis Network Graphs on Streamlit | [:link:](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [:link:](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 | A No-Code Approach to Building Knowledge Graphs | [:link:](https://towardsdatascience.com/a-no-code-approach-to-building-knowledge-graphs-ce5d6b244b2b?sk=36c9171d5774e277a164618901ab5b94) | [:link:](https://blog.kgbase.com/a-no-code-approach-to-building-knowledge-graphs/) |
+
+
+___
+<a name="responsible-ai"></a>
+## Responsible AI :police_officer:
+| Title | Article | Repo |
+| --- | --- | --- |
+| Responsible AI Masterclass (for Institute of Banking and Finance Singapore) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7206097813410107392/) | [:link:](https://github.com/kennethleungty/Responsible-AI-Masterclass) |
 
 ___
 <a name="sports-analytics"></a>
