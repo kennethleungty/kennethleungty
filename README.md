@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=79&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=80&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -123,6 +123,7 @@ ___
 | :star: Text-to-Audio Generation with Bark, Clearly Explained | [:link:](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [:link:](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
 | Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [:link:](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
 | Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [:link:](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
+| Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT | *Coming Soon*| [:link:](https://github.com/kennethleungty/ARTKIT-Gandalf-Challenge) |
 ___
 
 <a name="talks"></a>
