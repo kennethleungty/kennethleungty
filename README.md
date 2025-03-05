@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with data and technology while having fun at the same time.
+- Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with data and tech while having fun at the same time.
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
