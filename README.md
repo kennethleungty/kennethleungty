@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=80&color=2ea44f)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=81&color=2ea44f)
 
 <h3> How to reach me </h3>
 <div>
@@ -84,6 +84,7 @@ ___
 | 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [🔗](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249?sk=b2865229b15eb0342bb0e2030faf8c4a) | [🔗](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
 | 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [🔗](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de?sk=5bbc1f99cc8543bb71683239237d91c9) | - |
 | :star: No-Frills Guide to Passing the AWS Certified Machine Learning Specialty Exam | [🔗](https://towardsdatascience.com/no-frills-guide-to-passing-the-aws-certified-machine-learning-specialty-exam-55624579353f?sk=c21257b289f7d5ae9e1a661957c3a484) | - |
+| Microsoft Certified: Azure AI Engineer Associate - Notes | - | [🔗](https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes)
 
 ___
 <a name="data-science-tools"></a>
