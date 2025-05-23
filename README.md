@@ -183,7 +183,7 @@ ___
 | :star: Network Analysis and Visualization of Drug-Drug Interactions | [🔗](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [🔗](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 | How to Deploy Interactive Pyvis Network Graphs on Streamlit | [🔗](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [🔗](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
 | A No-Code Approach to Building Knowledge Graphs | [🔗](https://towardsdatascience.com/a-no-code-approach-to-building-knowledge-graphs-ce5d6b244b2b?sk=36c9171d5774e277a164618901ab5b94) | [🔗](https://blog.kgbase.com/a-no-code-approach-to-building-knowledge-graphs/) |
-| star: Text-to-SQL with GraphRAG on Neo4j Knowledge Graph Semantic Representation of SQL Databases | *Coming Soon* | [🔗](https://github.com/kennethleungty/Text-to-SQL-with-KG-Neo4j-GraphRAG)
+| :star: Text-to-SQL with GraphRAG on Neo4j Knowledge Graph Semantic Representation of SQL Databases | *Coming Soon* | [🔗](https://github.com/kennethleungty/Text-to-SQL-with-KG-Neo4j-GraphRAG)
 
 ___
 <a name="responsible-ai"></a>
