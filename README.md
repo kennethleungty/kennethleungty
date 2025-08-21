@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=83&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=84&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 
 <h3> How to reach me </h3>
 <div>
@@ -125,6 +125,7 @@ ___
 | Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [🔗](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
 | :star: Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT | [🔗](https://medium.com/towards-data-science/exposing-jailbreak-vulnerabilities-in-llm-applications-with-artkit-d2df5f56ece8?sk=99f8d313c09ab04b15b8627c997b3705) | [🔗](https://github.com/kennethleungty/ARTKIT-Gandalf-Challenge) |
 | :star: How to Benchmark DeepSeek-R1 Distilled Models on GPQA Using Ollama and OpenAI's simple-evals | [🔗](https://towardsdatascience.com/how-to-benchmark-deepseek-r1-distilled-models-on-gpqa-using-ollama-and-openais-simple-evals/) | [🔗](https://github.com/kennethleungty/DeepSeek-R1-Ollama-Simple-Evals)
+| Using Google's LangExtract and Gemma to Extract Structured Data | *Coming Soon* | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Insurance-Policies) 
 ___
 
 <a name="talks"></a>
