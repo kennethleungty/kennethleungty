@@ -125,7 +125,7 @@ ___
 | Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [🔗](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
 | :star: Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT | [🔗](https://medium.com/towards-data-science/exposing-jailbreak-vulnerabilities-in-llm-applications-with-artkit-d2df5f56ece8?sk=99f8d313c09ab04b15b8627c997b3705) | [🔗](https://github.com/kennethleungty/ARTKIT-Gandalf-Challenge) |
 | :star: How to Benchmark DeepSeek-R1 Distilled Models on GPQA Using Ollama and OpenAI's simple-evals | [🔗](https://towardsdatascience.com/how-to-benchmark-deepseek-r1-distilled-models-on-gpqa-using-ollama-and-openais-simple-evals/) | [🔗](https://github.com/kennethleungty/DeepSeek-R1-Ollama-Simple-Evals)
-| Using Google's LangExtract and Gemma to Extract Structured Data | *Coming Soon* | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Insurance-Policies) 
+| Using Google’s LangExtract and Gemma for Structured Data Extraction | [🔗](https://towardsdatascience.com/using-googles-langextract-and-gemma-for-structured-data-extraction/) | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction) 
 ___
 
 <a name="talks"></a>
