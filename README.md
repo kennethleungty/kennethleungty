@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=84&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=85&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 
 <h3> How to reach me </h3>
 <div>
