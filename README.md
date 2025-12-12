@@ -113,7 +113,7 @@ ___
 
 ___
 <a name="generative-ai"></a>
-## Generative AI and Agentic AI:robot:    
+## Generative AI and Agentic AI :robot:    
 | Title | Article | Repo |
 | --- | --- | --- |
 | Generative AI Pharmacist - Macy | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [🔗](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
