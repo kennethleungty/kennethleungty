@@ -29,7 +29,7 @@
 4. [Data Science Certification Guides](#data-science-certification-guides)
 5. [Data Science Toolkit](#data-science-tools)
 6. [Data Science in the Real World](#real-world-data-science)
-7. [Generative AI](#generative-ai)
+7. [Generative AI and Agentic AI](#generative-ai)
 8. [Insights from Data Science Talks](#talks)
 9. [Machine Learning](#machine-learning)
 10. [MLOps](#mlops)
