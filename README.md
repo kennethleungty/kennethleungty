@@ -127,7 +127,7 @@ ___
 | How to Benchmark DeepSeek-R1 Distilled Models on GPQA Using Ollama and OpenAI's simple-evals | [🔗](https://towardsdatascience.com/how-to-benchmark-deepseek-r1-distilled-models-on-gpqa-using-ollama-and-openais-simple-evals/) | [🔗](https://github.com/kennethleungty/DeepSeek-R1-Ollama-Simple-Evals)
 | Using Google’s LangExtract and Gemma for Structured Data Extraction | [🔗](https://towardsdatascience.com/using-googles-langextract-and-gemma-for-structured-data-extraction/) | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction) 
 | :star: How Agent Handoffs Work in Multi-Agent Systems | [🔗](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) | [🔗](https://github.com/kennethleungty/Handoffs-in-LangGraph-Multi-Agent-Systems) 
-| How Agents Plan Tasks with To-Do Lists | *Coming Soon* | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
+| How Agents Plan Tasks with To-Do Lists | [🔗](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
 ___
 
 <a name="talks"></a>
@@ -250,8 +250,4 @@ ___
 | Create a Clickable Table of Contents for Your Medium Posts | [🔗](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142?sk=a3993bdd63a3faeb1f324e05007faad9)  | - |
 
 ___
-    
-<!--
-| Placeholder | [🔗](article_link) | [🔗](github_link) |
-<a name=" "></a>
--->
+
