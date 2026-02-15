@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Kenneth Leung
 
-- Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with data and tech while having fun at the same time.
-- I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
-- You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
+- Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer, I enjoy seeking and solving meaningful problems with data and tech.
+- Join me on a journey of data science and AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
+- You can find my tech portfolio here, where every project was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics
 
 ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=88&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 
