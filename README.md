@@ -4,7 +4,7 @@
 - I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=87&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=88&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 
 <h3> How to reach me </h3>
 <div>
@@ -117,6 +117,7 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |
 | Generative AI Pharmacist - Macy | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [🔗](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
+| Artificial Intelligence (AI) Generated Patient Information Videos (PIVs) for Partial Nephrectomy by Medical Students with Expert Validation – A Pilot Study | [🔗](https://www.linkedin.com/posts/kennethleungty_generativeai-genai-datascience-activity-7199308558197297152-0_Uj/) | [🔗](https://www.youtube.com/watch?v=sW-9crlWVO0) |
 | :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [🔗](https://github.com/kennethleungty/ChatPod/) |
 | :star: Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A | [🔗](https://kennethleungty.medium.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8?sk=d9e9f1ad0ff72e66adf11e0226ad4489) | [🔗](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) |
 | :star: Finance-LLMs - Comprehensive Compilation of Real-World LLM Implementation in Financial Services | [🔗](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd?sk=eda65064719c240396e65cbb55bb2e30) | [🔗](https://github.com/kennethleungty/finance-llms) |
