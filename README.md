@@ -4,7 +4,7 @@
 - Join me on a journey of data science and AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here, where every project was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=88&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=89&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 
 <h3> How to reach me </h3>
 <div>
@@ -170,7 +170,7 @@ ___
 | :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [🔗](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [🔗](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | :star: How to Dockerize Machine Learning Applications Built with H2O, MLflow, FastAPI, and Streamlit | [🔗](https://towardsdatascience.com/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5?sk=3ac7a613f10b42e9fbc0c395d7d529af) | [🔗](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | :star: Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro | [🔗](https://neptune.ai/blog/data-science-pipelines-with-kedro) | [🔗](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
-
+| Customer Churn Prediction MLOps Pipeline with Feast and Ray | *Coming Soon* | [🔗](https://github.com/kennethleungty/Customer-Churn-with-Feast-and-Ray) |
     
 ___
 <a name="natural-language-processing"></a>
