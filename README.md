@@ -170,7 +170,7 @@ ___
 | :star: End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit for Insurance Cross-Sell | [🔗](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606?sk=9dcb775703e54445bfb35e1a86ad5381) | [🔗](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | :star: How to Dockerize Machine Learning Applications Built with H2O, MLflow, FastAPI, and Streamlit | [🔗](https://towardsdatascience.com/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5?sk=3ac7a613f10b42e9fbc0c395d7d529af) | [🔗](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | :star: Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro | [🔗](https://neptune.ai/blog/data-science-pipelines-with-kedro) | [🔗](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
-| Customer Churn Prediction MLOps Pipeline with Feast and Ray | *Coming Soon* | [🔗](https://github.com/kennethleungty/Customer-Churn-with-Feast-and-Ray) |
+| Scaling Feature Engineering Pipelines with Feast and Ray | *Coming Soon* | [🔗](https://github.com/kennethleungty/Customer-Churn-with-Feast-and-Ray) |
     
 ___
 <a name="natural-language-processing"></a>
