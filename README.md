@@ -13,18 +13,9 @@ Looking for career guidance, portfolio feedback, AI mentorship, or a deep techni
 Let’s accelerate your journey.
 </p>
 <a href="https://topmate.io/kennethleungty" target="_blank">
-    <img src="https://img.shields.io/badge/Book%20a%201:1%20Session-Topmate-ff6b35?style=for-the-badge" height="40">
+    <img src="https://img.shields.io/badge/Setup%20a%201:1%20Chat-Topmate-ff6b35?style=for-the-badge" height="40">
 </a>
 <br>
-<h3>💬 Connect With Me</h3>
-<div>
-    <a href="https://www.linkedin.com/in/kennethleungty" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-    </a>&nbsp
-    <a href="https://calendly.com/kennethleungty/chat" target="_blank">
-        <img src="https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat" height="30">
-    </a>&nbsp
-</div>
 <br>
 <p>
 If you’ve found my projects, articles, or resources helpful, you can support my work here:
