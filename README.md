@@ -9,8 +9,7 @@
 
 <h3>🚀 Work With Me</h3>
 <p>
-Looking for career guidance, portfolio feedback, AI mentorship, or a deep technical discussion?
-Let’s accelerate your journey.
+Looking for career guidance/mentorship, deep tech discussion, or potential referrals? Feel free to reach out
 </p>
 <a href="https://topmate.io/kennethleungty" target="_blank">
     <img src="https://img.shields.io/badge/Setup%20a%201:1%20Chat-Topmate-ff6b35?style=for-the-badge" height="40">
