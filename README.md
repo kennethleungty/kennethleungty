@@ -2,7 +2,7 @@
 
 - Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer, I enjoy seeking and solving meaningful problems with data and tech.
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
-- You can find my tech portfolio here, where every project was born out of inspiration and curiosity.
+- You can find my tech portfolio here, where every project is fueled by curiosity and built from inspiration.
 
 ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=89&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
