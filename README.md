@@ -1,18 +1,18 @@
 ## 👋 Hello, I'm Kenneth Leung
 
 - Thanks for popping by! As an avid learner, bold builder, curious explorer, and driven doer, I enjoy seeking and solving meaningful problems with data and tech.
-- Join me on a journey of data science and AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
-- You can find my tech portfolio here, where every project was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics
+- Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
+- You can find my tech portfolio here, where every project was born out of inspiration and curiosity.
 
 ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=89&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
 <p>
-Looking for career guidance/mentorship, deep tech discussion, or potential referrals? Feel free to reach out
+Looking for career guidance/mentorship, tech discussions, brainstorming, or potential referrals? Feel free to reach out
 </p>
 <a href="https://topmate.io/kennethleungty" target="_blank">
-    <img src="https://img.shields.io/badge/Setup%20a%201:1%20Chat-Topmate-ff6b35?style=for-the-badge" height="40">
+    <img src="https://img.shields.io/badge/Setup%201:1%20Chat-Topmate-ff6b35?style=for-the-badge" height="40">
 </a>
 <br>
 <br>
