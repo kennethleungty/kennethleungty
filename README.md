@@ -4,7 +4,7 @@
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here, where every project is fueled by curiosity and built from inspiration.
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=89&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=90&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
@@ -132,6 +132,7 @@ ___
 | :star: How Agent Handoffs Work in Multi-Agent Systems | [🔗](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) | [🔗](https://github.com/kennethleungty/Handoffs-in-LangGraph-Multi-Agent-Systems) 
 | How Agents Plan Tasks with To-Do Lists | [🔗](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
 | How Cursor Actually Indexes Your Codebase | [🔗](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) | -
+| Building Human-In-The-Loop Agentic Workflows | [🔗](https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/) | [🔗](https://github.com/kennethleungty/Human-in-the-Loop-Workflow-LangGraph) 
 ___
 
 <a name="talks"></a>
