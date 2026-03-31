@@ -4,7 +4,7 @@
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here, where every project is fueled by curiosity and built from inspiration.
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=90&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=91&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
@@ -133,6 +133,7 @@ ___
 | How Agents Plan Tasks with To-Do Lists | [🔗](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
 | How Cursor Actually Indexes Your Codebase | [🔗](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) | -
 | Building Human-In-The-Loop Agentic Workflows | [🔗](https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/) | [🔗](https://github.com/kennethleungty/Human-in-the-Loop-Workflow-LangGraph) 
+| :star: Claude-Music: Stream great music in your Claude Code sessions, with an AI DJ that matches your vibes | - | [🔗](https://github.com/kennethleungty/claude-music) 
 ___
 
 <a name="talks"></a>
