@@ -11,7 +11,7 @@
 <p>
 Looking for career guidance/mentorship, tech discussions, brainstorming, or potential referrals? Feel free to reach out
 </p>
-<a href="https://topmate.io/kennethleungty" target="_blank">
+<a href="https://topmate.io/kennethleung" target="_blank">
     <img src="https://img.shields.io/badge/Setup%201:1%20Chat-Topmate-ff6b35?style=for-the-badge" height="40">
 </a>
 <br>
