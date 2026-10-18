@@ -4,7 +4,7 @@
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here (which I started building before the age of LLMs), where every project is borne out of curiosity and inspiration.
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=91&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=92&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
@@ -25,27 +25,35 @@ If you’ve found my projects, articles, or resources helpful, you can support m
 <hr>
 
 ## Portfolio Contents
-1. [Computer Vision](#computer-vision)
-2. [Database Management](#database)
-3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-4. [Data Science Certification Guides](#data-science-certification-guides)
-5. [Data Science Toolkit](#data-science-tools)
-6. [Data Science in the Real World](#real-world-data-science)
-7. [Generative AI and Agentic AI](#generative-ai)
-8. [Insights from Data Science Talks](#talks)
-9. [Machine Learning](#machine-learning)
-10. [MLOps](#mlops)
-11. [Natural Language Processing](#natural-language-processing)
-12. [Networks and Graphs](#networks-and-graphs)
-13. [Responsible AI](#responsible-ai)
-14. [Sports Analytics](#sports-analytics)
-15. [Visualization](#visualization)
-16. [Web Development](#web-development)
-17. [Web3 and Metaverse](#web3)
-18. [Writing for DataCamp](#writing-for-datacamp)
-19. [Writing Tips](#writing-tips)
+1. [Cloud Computing](#cloud-computing)
+2. [Computer Vision](#computer-vision)
+3. [Database Management](#database)
+4. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+5. [Data Science Certification Guides](#data-science-certification-guides)
+6. [Data Science Toolkit](#data-science-tools)
+7. [Data Science in the Real World](#real-world-data-science)
+8. [Generative AI and Agentic AI](#generative-ai)
+9. [Insights from Data Science Talks](#talks)
+10. [Machine Learning](#machine-learning)
+11. [MLOps](#mlops)
+12. [Natural Language Processing](#natural-language-processing)
+13. [Networks and Graphs](#networks-and-graphs)
+14. [Responsible AI](#responsible-ai)
+15. [Sports Analytics](#sports-analytics)
+16. [Visualization](#visualization)
+17. [Web Development](#web-development)
+18. [Web3 and Metaverse](#web3)
+19. [Writing for DataCamp](#writing-for-datacamp)
+20. [Writing Tips](#writing-tips)
 
 **Projects with :star: are my personal favourites, so do check them out!**
+
+___
+<a name="cloud-computing"></a>
+## Cloud Computing ☁️
+| Title | Article | Repo |
+| --- | --- | --- |
+| :star: Cloud Renames - Essential Guide for Tracking Every Cloud Service Rename and Rebrand | [🔗](https://www.cloudrenames.com) | [🔗](https://github.com/kennethleungty/Cloud-Renames) |
 
 ___
 <a name="computer-vision"></a>
