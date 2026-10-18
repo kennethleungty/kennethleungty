@@ -4,7 +4,7 @@
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here (which I started building before the age of LLMs), where every project is borne out of curiosity and inspiration.
 
-![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=91&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=91&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
