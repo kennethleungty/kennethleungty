@@ -51,14 +51,14 @@ If you’ve found my projects, articles, or resources helpful, you can support m
 ___
 <a name="cloud-computing"></a>
 ## Cloud Computing ☁️
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | :star: Cloud Renames - Essential Guide for Tracking Every Cloud Service Rename and Rebrand | [🔗](https://www.cloudrenames.com) | [🔗](https://github.com/kennethleungty/Cloud-Renames) |
 
 ___
 <a name="computer-vision"></a>
 ## Computer Vision :eye:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Classifying Images of Alcoholic Beverages with fast.ai v2 | [🔗](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543?sk=d0efa0e6b6d214c52b337a0381a4fd3d) | [🔗](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
 | Russian Car Plate Detection with OpenCV and TesseractOCR | [🔗](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c?sk=263f4351c3c2c5cd9c60a4469b9dab08) | [🔗](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
@@ -70,7 +70,7 @@ ___
 ___
 <a name="database"></a>
 ## Database Management :file_cabinet:   
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |    
 | :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [🔗](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [🔗](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) | 
 | PyMySQL - Connecting Python and SQL for Data Science | [🔗](https://towardsdatascience.com/pymysql-connecting-python-and-sql-for-data-science-91e7582d21d7?sk=d450443e2e74f1c8b5d7d3820d1e9202) | [🔗](https://github.com/kennethleungty/PyMySQL-Demo) | 
@@ -79,7 +79,7 @@ ___
 ___
 <a name="data-extraction-and-web-scraping"></a>
 ## Data Extraction and Web Scraping :toolbox:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [🔗](https://github.com/kennethleungty/OneMap-API) |
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [🔗](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [🔗](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
@@ -88,7 +88,7 @@ ___
 ___
 <a name="data-science-certification-guides"></a>
 ## Data Science Certification Guides :man_student:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks | [🔗](https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249?sk=b2865229b15eb0342bb0e2030faf8c4a) | [🔗](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) |
 | 3 Steps to Get Tableau Desktop Certified in 2 Weeks | [🔗](https://towardsdatascience.com/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de?sk=5bbc1f99cc8543bb71683239237d91c9) | - |
@@ -98,7 +98,7 @@ ___
 ___
 <a name="data-science-tools"></a>
 ## Data Science Toolkit :hammer_and_wrench:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Common Python codes for Data Wrangling | - | [🔗](https://github.com/kennethleungty/Common-Python-Codes) |
 | Enhance your Python code’s readability with pycodestyle | [🔗](https://towardsdatascience.com/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb?sk=d609f9fcac20e3ad0feb086fc1ea160c) | - |
@@ -113,7 +113,7 @@ ___
 ___
 <a name="real-world-data-science"></a>
 ## Data Science in the Real World :earth_asia:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Exploring Illegal Drugs in Singapore — A Data Perspective | [🔗](https://towardsdatascience.com/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) | [🔗](https://github.com/kennethleungty/Exploring-Illegal-Drugs) |
 | Pharmacokinetic Modeling of Drug Concentration Trajectories using Ordinary Differential Equations (ODE) and Global Optimization with Differential Evolution | - | [🔗](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution) |
@@ -124,7 +124,7 @@ ___
 ___
 <a name="generative-ai"></a>
 ## Generative AI and Agentic AI :robot:    
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Generative AI Pharmacist - Macy | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [🔗](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
 | AI Generated Patient Information Videos for Partial Nephrectomy with Expert Validation – A Pilot Study | [🔗](https://www.linkedin.com/posts/kennethleungty_generativeai-genai-datascience-activity-7199308558197297152-0_Uj/) | [🔗](https://www.youtube.com/watch?v=sW-9crlWVO0) |
@@ -146,7 +146,7 @@ ___
 
 <a name="talks"></a>
 ## Insights from Data Science Talks :man_teacher:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Bridging AI’s Proof-of-Concept to Production Gap — Insights from Andrew Ng | [🔗](https://towardsdatascience.com/bridging-ais-proof-of-concept-to-production-gap-insights-from-andrew-ng-f2ac119ee737?sk=3a5e77fd5e3d7f4ca4f6118a6c98c7af) | - |
     
@@ -154,7 +154,7 @@ ___
 ___
 <a name="machine-learning"></a>
 ## Machine Learning :slot_machine:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [🔗](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [🔗](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
 | Using Ensemble Regressors to Predict Condominium Rental Prices | [🔗](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [🔗](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
@@ -173,7 +173,7 @@ ___
 ___
 <a name="mlops"></a>
 ## MLOps - Machine Learning Operations :man_mechanic:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Key Learning Points from MLOps Specialization — Course 1/4 | [🔗](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [🔗](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
 | Key Learning Points from MLOps Specialization — Course 2/4 | [🔗](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90?sk=29b8ffeae2530cf244b5fcf1c09ba54d) | [🔗](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/2.%20Machine%20Learning%20Data%20Lifecycle%20in%20Production) |
@@ -187,7 +187,7 @@ ___
 ___
 <a name="natural-language-processing"></a>
 ## Natural Language Processing :bookmark_tabs:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [🔗](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [🔗](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 | Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy | [🔗](https://towardsdatascience.com/arxiv-keyword-extraction-and-analysis-pipeline-with-keybert-and-taipy-2972e81d9fa4?sk=b45c99c3d1104e3eeea80d9c3fb1a993) | [🔗](https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy) |
@@ -195,7 +195,7 @@ ___
 ___
 <a name="networks-and-graphs"></a>
 ## Networks and Graphs :globe_with_meridians:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | :star: Network Analysis and Visualization of Drug-Drug Interactions | [🔗](https://towardsdatascience.com/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df?sk=4ef977b9ba9f726bf3d30549296ae1ec) | [🔗](https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization) |
 | How to Deploy Interactive Pyvis Network Graphs on Streamlit | [🔗](https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db?sk=a5ee66d9e548f2b69e309ac10a531eba) | [🔗](https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit) |
@@ -205,14 +205,14 @@ ___
 ___
 <a name="responsible-ai"></a>
 ## Responsible AI :police_officer:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Responsible AI Masterclass (for Institute of Banking and Finance Singapore) | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7206097813410107392/) | [🔗](https://github.com/kennethleungty/Responsible-AI-Masterclass) |
 
 ___
 <a name="sports-analytics"></a>
 ## Sports Analytics :soccer:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | :star: Analyzing English Premier League VAR Football Decisions | [🔗](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?sk=4d968e99ff9ec1e1322bb69fc0af280c) | [🔗](https://github.com/kennethleungty/English-Premier-League-VAR-Analysis) |
 | Combining Python and R for FIFA Football World Ranking Analysis | [🔗](https://towardsdatascience.com/combining-python-and-r-for-fifa-football-world-ranking-analysis-d71bb6ceacdb) | [🔗](https://github.com/kennethleungty/FIFA-Football-World-Rankings) |
@@ -220,7 +220,7 @@ ___
 ___
 <a name="visualization"></a>
 ## Visualization :chart_with_upwards_trend:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [🔗](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
 | Visualizing Fortune 500 Companies in a Bar Chart Race | [🔗](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63?sk=6ac0cffbe15e0d152bed9b6440c78a24) | [🔗](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
@@ -229,7 +229,7 @@ ___
 ___
 <a name="web-development"></a>
 ## Web Development :desktop_computer:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | :star: Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [🔗](https://github.com/kennethleungty/Post-Vaccine-Timer) |
 | From HTTP to HTTPS — Easily Secure Flask Web Apps With Talisman | [🔗](https://betterprogramming.pub/from-http-to-https-easily-secure-flask-web-apps-with-talisman-3359692d3eac?sk=bdee663dbbb69bee8b40dd952a693e3e) | - |
@@ -238,14 +238,14 @@ ___
 ___
 <a name="web3"></a>
 ## Web3 and Metaverse :man_technologist:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | The Web3 / Metaverse Glossary — A Keyword Guide to the Tech Future | [🔗](https://medium.datadriveninvestor.com/the-web3-metaverse-glossary-a-keyword-guide-to-the-tech-future-42afedd9c3c0?sk=2515b48545a28d1d185608e405442aa5) | - |
 
 ___
 <a name="writing-for-datacamp"></a>
 ## Writing for DataCamp :writing_hand:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | :star: What Mature Data Infrastructure Looks Like | [🔗](https://www.datacamp.com/community/blog/data-infrastructure-tools) | - |
 | Democratizing Data in Government Agencies | [🔗](https://www.datacamp.com/community/blog/democratizing-data-in-government-agencies) | - |
@@ -259,7 +259,7 @@ ___
 ___
 <a name="writing-tips"></a>
 ## Writing Tips :scroll:
-| Title | Article | Repo |
+| Title | Article/Site | Repo |
 | --- | --- | --- |
 | Create a Clickable Table of Contents for Your Medium Posts | [🔗](https://medium.com/geekculture/how-to-create-clickable-table-of-contents-for-your-medium-posts-e81e22f83142?sk=a3993bdd63a3faeb1f324e05007faad9)  | - |
 
