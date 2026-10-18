@@ -53,7 +53,7 @@ ___
 ## Cloud Computing ☁️
 | Title | Article/Site | Repo |
 | --- | --- | --- |
-| :star: Cloud Renames - Essential Guide for Tracking Every Cloud Service Rename and Rebrand | [🔗](https://www.cloudrenames.com) | [🔗](https://github.com/kennethleungty/Cloud-Renames) |
+| :star: Cloud Renames - Essential Guide for Tracking Cloud Service Renames and Rebrands | [🔗](https://www.cloudrenames.com) | [🔗](https://github.com/kennethleungty/Cloud-Renames) |
 
 ___
 <a name="computer-vision"></a>
