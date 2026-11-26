@@ -4,7 +4,7 @@
 - Join me on a journey of AI discovery! Follow me on [GitHub](https://github.com/kennethleungty), [Medium](https://kennethleungty.medium.com), and [LinkedIn](https://linkedin.com/in/kennethleungty) to stay updated with engaging and practical content.
 - You can find my tech portfolio here (which I started building before the age of LLMs), where every project is borne out of curiosity and inspiration.
 
-![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=92&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
+![](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=93&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/kennethleungty?affiliations=OWNER&style=social)
 <hr>
 
 <h3>🚀 Work With Me</h3>
@@ -25,14 +25,14 @@ If you’ve found my projects, articles, or resources helpful, you can support m
 <hr>
 
 ## Portfolio Contents
-1. [Cloud Computing](#cloud-computing)
-2. [Computer Vision](#computer-vision)
-3. [Database Management](#database)
-4. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-5. [Data Science Certification Guides](#data-science-certification-guides)
-6. [Data Science Toolkit](#data-science-tools)
-7. [Data Science in the Real World](#real-world-data-science)
-8. [Generative AI and Agentic AI](#generative-ai)
+1. [Agentic AI and Generative AI](#generative-ai)
+2. [Cloud Computing](#cloud-computing)
+3. [Computer Vision](#computer-vision)
+4. [Database Management](#database)
+5. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+6. [Data Science Certification Guides](#data-science-certification-guides)
+7. [Data Science Toolkit](#data-science-tools)
+8. [Data Science in the Real World](#real-world-data-science)
 9. [Insights from Data Science Talks](#talks)
 10. [Machine Learning](#machine-learning)
 11. [MLOps](#mlops)
@@ -48,6 +48,28 @@ If you’ve found my projects, articles, or resources helpful, you can support m
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
+___
+<a name="generative-ai"></a>
+## Agentic AI and Generative AI :robot:    
+| Title | Article/Site | Repo |
+| --- | --- | --- |
+| Generative AI Pharmacist - Macy | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [🔗](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
+| AI Generated Patient Information Videos for Partial Nephrectomy with Expert Validation – A Pilot Study | [🔗](https://www.linkedin.com/posts/kennethleungty_generativeai-genai-datascience-activity-7199308558197297152-0_Uj/) | [🔗](https://www.youtube.com/watch?v=sW-9crlWVO0) |
+| :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [🔗](https://github.com/kennethleungty/ChatPod/) |
+| :star: Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A | [🔗](https://kennethleungty.medium.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8?sk=d9e9f1ad0ff72e66adf11e0226ad4489) | [🔗](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) |
+| :star: Finance-LLMs - Comprehensive Compilation of Real-World LLM Implementation in Financial Services | [🔗](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd?sk=eda65064719c240396e65cbb55bb2e30) | [🔗](https://github.com/kennethleungty/finance-llms) |
+| :star: Text-to-Audio Generation with Bark, Clearly Explained | [🔗](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [🔗](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
+| Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [🔗](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
+| Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [🔗](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
+| :star: Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT | [🔗](https://medium.com/towards-data-science/exposing-jailbreak-vulnerabilities-in-llm-applications-with-artkit-d2df5f56ece8?sk=99f8d313c09ab04b15b8627c997b3705) | [🔗](https://github.com/kennethleungty/ARTKIT-Gandalf-Challenge) |
+| How to Benchmark DeepSeek-R1 Distilled Models on GPQA Using Ollama and OpenAI's simple-evals | [🔗](https://towardsdatascience.com/how-to-benchmark-deepseek-r1-distilled-models-on-gpqa-using-ollama-and-openais-simple-evals/) | [🔗](https://github.com/kennethleungty/DeepSeek-R1-Ollama-Simple-Evals)
+| Using Google’s LangExtract and Gemma for Structured Data Extraction | [🔗](https://towardsdatascience.com/using-googles-langextract-and-gemma-for-structured-data-extraction/) | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction) 
+| :star: How Agent Handoffs Work in Multi-Agent Systems | [🔗](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) | [🔗](https://github.com/kennethleungty/Handoffs-in-LangGraph-Multi-Agent-Systems) 
+| How Agents Plan Tasks with To-Do Lists | [🔗](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
+| How Cursor Actually Indexes Your Codebase | [🔗](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) | -
+| Building Human-In-The-Loop Agentic Workflows | [🔗](https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/) | [🔗](https://github.com/kennethleungty/Human-in-the-Loop-Workflow-LangGraph) 
+| :star: Claude-Music: Stream great music in your Claude Code sessions, with an AI DJ that matches your vibes | - | [🔗](https://github.com/kennethleungty/claude-music) 
+| PropertyClaw - Sandboxed AI agent for real estate, grounded in a source-cited knowledge wiki and built on NanoClaw | [🔗](https://www.linkedin.com/posts/kennethleungty_excitement-around-openclaw-has-cooled-noticeably-share-7530649481424474112-8Yn4/) | - |
 ___
 <a name="cloud-computing"></a>
 ## Cloud Computing ☁️
@@ -121,27 +143,6 @@ ___
 | Real-World Data Science Use Cases in the Insurance Industry | [🔗](https://medium.datadriveninvestor.com/real-world-data-science-use-cases-in-the-insurance-industry-58f280983ee2?sk=5c4a080f00cf953fc91f4f21bf4a0e74) | - |    
 | :star: Failed-ML: Compilation of high-profile real-world examples of failed machine learning projects | [🔗](https://towardsdatascience.com/when-ai-goes-astray-high-profile-machine-learning-mishaps-in-the-real-world-26bd58692195?sk=7b1b9831399403b123523172e74c8ddd) | [🔗](https://github.com/kennethleungty/Failed-ML) |
 
-___
-<a name="generative-ai"></a>
-## Generative AI and Agentic AI :robot:    
-| Title | Article/Site | Repo |
-| --- | --- | --- |
-| Generative AI Pharmacist - Macy | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | [🔗](https://github.com/kennethleungty/Generative-AI-Pharmacist) |
-| AI Generated Patient Information Videos for Partial Nephrectomy with Expert Validation – A Pilot Study | [🔗](https://www.linkedin.com/posts/kennethleungty_generativeai-genai-datascience-activity-7199308558197297152-0_Uj/) | [🔗](https://www.youtube.com/watch?v=sW-9crlWVO0) |
-| :star: ChatPod - Q&A over your Podcasts with Whisper, FAISS, and LangChain | [🔗](https://www.linkedin.com/feed/update/urn:li:activity:7051350652484026368/) | [🔗](https://github.com/kennethleungty/ChatPod/) |
-| :star: Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A | [🔗](https://kennethleungty.medium.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8?sk=d9e9f1ad0ff72e66adf11e0226ad4489) | [🔗](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) |
-| :star: Finance-LLMs - Comprehensive Compilation of Real-World LLM Implementation in Financial Services | [🔗](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd?sk=eda65064719c240396e65cbb55bb2e30) | [🔗](https://github.com/kennethleungty/finance-llms) |
-| :star: Text-to-Audio Generation with Bark, Clearly Explained | [🔗](https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a?sk=e2b2f75f5fc93c656bef031c60bf99bf) | [🔗](https://github.com/kennethleungty/Text-to-Audio-with-Bark) |
-| Guide to ChatGPT's Advanced Settings — Top P, Frequency Penalties, Temperature, and More | [🔗](https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069?sk=c976bb82783c56b37b2549cc79628f12) | - |
-| Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More | [🔗](https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83) | - |
-| :star: Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT | [🔗](https://medium.com/towards-data-science/exposing-jailbreak-vulnerabilities-in-llm-applications-with-artkit-d2df5f56ece8?sk=99f8d313c09ab04b15b8627c997b3705) | [🔗](https://github.com/kennethleungty/ARTKIT-Gandalf-Challenge) |
-| How to Benchmark DeepSeek-R1 Distilled Models on GPQA Using Ollama and OpenAI's simple-evals | [🔗](https://towardsdatascience.com/how-to-benchmark-deepseek-r1-distilled-models-on-gpqa-using-ollama-and-openais-simple-evals/) | [🔗](https://github.com/kennethleungty/DeepSeek-R1-Ollama-Simple-Evals)
-| Using Google’s LangExtract and Gemma for Structured Data Extraction | [🔗](https://towardsdatascience.com/using-googles-langextract-and-gemma-for-structured-data-extraction/) | [🔗](https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction) 
-| :star: How Agent Handoffs Work in Multi-Agent Systems | [🔗](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) | [🔗](https://github.com/kennethleungty/Handoffs-in-LangGraph-Multi-Agent-Systems) 
-| How Agents Plan Tasks with To-Do Lists | [🔗](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) | [🔗](https://github.com/kennethleungty/Agent-Planning-To-Do-Logic) 
-| How Cursor Actually Indexes Your Codebase | [🔗](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) | -
-| Building Human-In-The-Loop Agentic Workflows | [🔗](https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/) | [🔗](https://github.com/kennethleungty/Human-in-the-Loop-Workflow-LangGraph) 
-| :star: Claude-Music: Stream great music in your Claude Code sessions, with an AI DJ that matches your vibes | - | [🔗](https://github.com/kennethleungty/claude-music) 
 ___
 
 <a name="talks"></a>
